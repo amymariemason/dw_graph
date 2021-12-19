@@ -1,0 +1,411 @@
+CLASSIC_AI = OrderedDict([
+    (1, OrderedDict([ # First Doctor
+        (1, OrderedDict([ # S1
+            ("An Unearthly Child", [63, 59, 56, 55]),
+            ("The Daleks", [59, 58, 63, 63, 63, 63, 65]),
+            ("The Edge of Destruction", [61, 60]),
+            ("Marco Polo", [63, 62, 62, 60, 59, 59, 59]),
+            ("The Keys of Marinus", [62, 60, 61, 60, 61, 63]),
+            ("The Aztecs", [62, 62, 57, 58]),
+            ("The Sensorites", [59, 59, 56, 60, 57, 57]),
+            ("The Reign of Terror", [58, 54, 55, 53, 53, 55])
+        ])),
+        (2, OrderedDict([ # S2
+            ("Planet of Giants", [57, 58, 59]),
+            ("The Dalek Invasion of Earth", [63, 59, 59, 59, 58, 63]),
+            ("The Rescue", [57, 59]),
+            ("The Romans", [53, 51, 50, 50]),
+            ("The Web Planet", [56, 53, 53, 49, 48, 42]),
+            ("The Crusade", [51, 50, 49, 48]),
+            ("The Space Museum", [61, 53, 56, 49]),
+            ("The Chase", [57, 56, 55, 54, 56, 57]),
+            ("The Time Meddler", [57, 49, 53, 54])
+        ])),
+        (3, OrderedDict([ # S3
+            ("Galaxy 4", [56, 55, 54, 53]),
+            ("Mission to the Unknown", [54]),
+            ("The Myth Makers", [48, 51, 49, 52]),
+            ("The Daleks' Master Plan", [54, 52, 52, 51, 53, 56, 39, 49, 52, 50, 49, 57]),
+            ("The Massacre of St Bartholomew's Eve", [52, 52, 49, 53]),
+            ("The Ark", [55, 56, 51, 50]),
+            ("The Celestial Toymaker", [48, 49, 44, 43]),
+            ("The Gunfighters", [45, 39, 36, 30]),
+            ("The Savages", [48, 49, 48, 48]),
+            ("The War Machines", [49, 45, 44, 39])
+        ])),
+        (4, OrderedDict([ # S4
+            ("The Smugglers", [47, 45, 43, 43]),
+            ("The Tenth Planet", [50, 58, 58, 47])
+        ]))
+    ])),
+    (2, OrderedDict([ # Second Doctor
+        (4, OrderedDict([
+            ("The Power of the Daleks", [43, 45, 44, 47, 48, 47]),
+            ("The Highlanders", [57, 56, 57, 57]),
+            ("The Underwater Menace", [48, 46, 45, 47]),
+            ("The Moonbase", [50, 49, 53, 58]),
+            ("The Macra Terror", [50, 48, 52, 49]),
+            ("The Faceless Ones", [51, 50, 53, 55, 55, 52]),
+            ("The Evil of the Daleks", [51, 51, 52, 51, 53, 49, 56])
+        ])),
+        (5, OrderedDict([
+            ("The Tomb of the Cybermen", [53, 52, 49, 50]),
+            ("The Abominable Snowmen", [50, 52, 51, 50, 51, 52]),
+            ("The Ice Warriors", [52, 52, 51, 51, 50, 51]),
+            ("The Enemy of the World", [50, 49, 48, 49, 49, 52]),
+            ("The Web of Fear", [54, 53, 51, 53, 55, 55]),
+            ("Fury from the Deep", [55, 55, 56, 56, 56, 57]),
+            ("The Wheel in Space", [57, 60, 55, 56, 57, 62])
+        ])),
+        (6, OrderedDict([
+            ("The Dominators", [52, 55, 55, 51, 53]),
+            ("The Mind Robber", [51, 49, 53, 56, 49]),
+            ("The Invasion", [55, 53, 54, 51, 52, 56, 55, 53]),
+            ("The Krotons", [59, 57, 56, 55]),
+            ("The Seeds of Death", [57, 59, 55, 55, 57, 59]),
+            ("The Space Pirates", [57, 52, 55, 53, 56, 52]),
+            ("The War Games", [55, 54, 53, 50, 53, 53, 53, 53, 57, 58])
+        ]))
+    ])),
+    (3, OrderedDict([ # Third Doctor
+        (7, OrderedDict([
+            ("Spearhead from Space", [54, -1, -1, 57]),
+            ("Doctor Who and the Silurians", [58, 58, 57, 60, 58, 57, 58]),
+            ("The Ambassadors of Death", [60, 61, 59, 58, -1, 61, 62]),
+            ("Inferno", [61, 61, 60, 60, -1, 58, 60])
+        ])),
+        (8, OrderedDict([
+            ("Terror of the Autons", [-1]*4),
+            ("The Mind of Evil", [-1]*6),
+            ("The Claws of Axos", [-1]*4),
+            ("Colony in Space", [-1]*6),
+            ("The Daemons", [-1]*5)
+        ])),
+        (9, OrderedDict([
+            ("Day of the Daleks", [-1]*4),
+            ("The Curse of Peladon", [-1]*4),
+            ("The Sea Devils", [-1]*6),
+            ("The Mutants", [-1]*6),
+            ("The Time Monster", [-1]*6)
+        ])),
+        (10, OrderedDict([
+            ("The Three Doctors", [-1]*4),
+            ("Carnival of Monsters", [-1]*4),
+            ("Frontier in Space", [-1]*6),
+            ("Planet of the Daleks", [-1]*6),
+            ("The Green Death", [-1]*6)
+        ])),
+        (11, OrderedDict([
+            ("The Time Warrior", [59, -1, -1, 60]),
+            ("Invasion of the Dinosaurs", [62, -1, 63, -1, -1, 62]),
+            ("Death to the Daleks", [ -1, 61, 62]),
+            ("The Monster of Peladon", [-1]*6),
+            ("Planet of the Spiders", [58, 60, 57, -1, -1, 56])
+        ]))
+    ])),
+    (4, OrderedDict([ # Fourth Doctor
+        (12, OrderedDict([
+            ("Robot", [53, 53, -1, 51]),
+            ("The Ark in Space", [-1]*4),
+            ("The Sontaran Experiment", [-1, 55]),
+            ("Genesis of the Daleks", [-1, 57, -1, 58, 57, 56]),
+            ("Revenge of the Cybermen", [57, -1, -1, 58])
+        ])),
+        (13, OrderedDict([
+            ("Terror of the Zygons", [59, -1, 54, -1]),
+            ("Planet of Evil", [-1, 56, 57, 54]),
+            ("Pyramids of Mars", [-1, -1, -1, 60]),
+            ("The Android Invasion", [58, -1, -1, -1]),
+            ("The Brain of Morbius", [-1, -1, 57, -1]),
+            ("The Seeds of Doom", [59, -1, -1, -1, -1, -1])
+        ])),
+        (14, OrderedDict([
+            ("The Masque of Mandragora", [58, 56, -1, 56]),
+            ("The Hand of Fear", [-1, -1, 62, -1]),
+            ("The Deadly Assassin", [-1, 59, -1, 61]),
+            ("The Face of Evil", [61, -1, 59, 60]),
+            ("The Robots of Death", [62, -1, -1, 57]),
+            ("The Talons of Weng-Chiang", [-1, -1, -1, 60, -1, 58])
+        ])),
+        (15, OrderedDict([
+            ("The Horror of Fang Rock", [58, -1, 60, 57]),
+            ("The Invisible Enemy", [-1, -1, -1, 60]),
+            ("Image of the Fendahl", [-1, 75, -1, 61]),
+            ("The Sun Makers", [-1, -1, 68, 59]),
+            ("Underworld", [65, -1, -1, -1]),
+            ("The Invasion of Time", [56, -1, -1, -1, -1, -1])
+        ])),
+        (16, OrderedDict([
+            ("The Ribos Operation", [59, -1, -1, 67]),
+            ("The Pirate Planet", [61, -1, 64, 64]),
+            ("The Stones of Blood", [-1, -1, -1, 67]),
+            ("The Androids of Tara", [ -1, 65, -1, 66]),
+            ("The Power of Kroll", [-1, -1, -1, 63]),
+            ("The Armageddon Factor", [65, -1, -1, -1, -1, 66])
+        ])),
+        (17, OrderedDict([
+            ("Destiny of the Daleks", [67, -1, 63, 64]),
+            ("City of Death", [-1, 64, -1, 64]),
+            ("The Creature from the Pit", [-1, 67, -1, -1]),
+            ("Nightmare of Eden", [-1, -1, -1, 65]),
+            ("The Horns of Nimon", [-1, -1, -1, 67])
+        ])),
+        (18, OrderedDict([
+            ("The Leisure Hive", [-1, -1, -1, 65]),
+            ("Meglos", [61, 54, -1, 63]),
+            ("Full Circle", [-1, -1, -1, 65]),
+            ("State of Decay", [-1, -1, -1, 69]),
+            ("Warriors' Gate", [59, -1, -1, 59]),
+            ("The Keeper of Traken", [-1, -1, -1, 63]),
+            ("Logopolis", [-1, 61, -1, 65])
+        ]))
+    ])),
+    (5, OrderedDict([ # Fifth Doctor
+        (19, OrderedDict([
+            ("Castrovalva", [-1]*4),
+            ("Four to Doomsday", [-1]*4),
+            ("Kinda", [-1]*4),
+            ("The Visitation", [-1]*4),
+            ("Black Orchid", [-1]*2),
+            ("Earthshock", [-1]*4),
+            ("Time-Flight", [-1]*4)
+        ])),
+        (20, OrderedDict([
+            ("Arc of Infinity", [69, 70, 67, 66]),
+            ("Snakedance", [65, 66, 67, 67]),
+            ("Mawdryn Undead", [67, 70, 67, 68]),
+            ("Terminus", [65, 67, 64, 67]),
+            ("Enlightenment", [67, 65, 68, 70]),
+            ("The King's Demons", [65, 63]),
+            ("The Five Doctors", [75])
+        ])),
+        (21, OrderedDict([
+            ("Warriors of the Deep", [65, 64, 62, 65]),
+            ("The Awakening", [65, 63]),
+            ("Frontios", [66, 69, 65, 65]),
+            ("Resurrection of the Daleks", [69, 65, -1]),
+            ("Planet of Fire", [-1]*4),
+            ("The Caves of Androzani", [65, -1, 65, 68])
+        ]))
+    ])),
+    (6, OrderedDict([ # Sixth Doctor
+        (21, OrderedDict([
+            ("The Twin Dilemma", [60, 66, 59, 67])
+        ])),
+        (22, OrderedDict([
+            ("Attack of the Cybermen", [61, 65]),
+            ("Vengeance on Varos", [63, 65]),
+            ("The Mark of the Rani", [64, 64]),
+            ("The Two Doctors", [65, 62, 65]),
+            ("Timelash", [66, 64]),
+            ("Revelation of the Daleks", [67, 65])
+        ])),
+        (23, OrderedDict([
+            ("The Mysterious Planet", [72, 69, 70, 72]),
+            ("Mindwarp", [71, 69, 66, 72]),
+            ("Terror of the Vervoids", [66, 69, 69, 69]),
+            ("The Ultimate Foe", [69, 69])
+        ]))
+    ])),
+    (7, OrderedDict([ # Seventh Doctor
+        (24, OrderedDict([
+            ("Time and the Rani", [58, 63, 57, 59]),
+            ("Paradise Towers", [61, 58, 58, 57]),
+            ("Delta and the Bannermen", [63, 60, 60]),
+            ("Dragonfire", [61, 61, 64])
+        ])),
+        (25, OrderedDict([
+            ("Rememberance of the Daleks", [68, 69, 70, 72]),
+            ("The Happiness Patrol", [67, 65, 65]),
+            ("Silver Nemesis", [71, 70, 70]),
+            ("The Greatest Show in the Galaxy", [68, 66, 69, 64])
+        ])),
+        (26, OrderedDict([
+            ("Battlefield", [69, 68, 67, 65]),
+            ("Ghost Light", [68, 68, 64]),
+            ("The Curse of Fenric", [67, 68, 68, 68]),
+            ("Survival", [69, 69, 71])
+        ]))
+    ])),
+    (8, OrderedDict([ # Eight Doctor
+        ("TV", OrderedDict([
+            ("The Movie", [75])
+        ]))
+    ])),
+    (9, OrderedDict([ # Ninth Doctor
+        (1, OrderedDict([
+            ("Rose", [76]),
+            ("The End of the World", [76]),
+            ("The Unquiet Dead", [80]),
+            ("Aliens of London", [82, 81]),
+            ("Dalek", [84]),
+            ("The Long Game", [81]),
+            ("Father's Day", [83]),
+            ("The Empty Child", [84, 85]),
+            ("Boom Town", [82]),
+            ("The Parting of the Ways", [86, 89])
+        ]))
+    ])),
+    (10, OrderedDict([ # Tenth Doctor
+        (2, OrderedDict([
+            ("The Christmas Invasion", [84]),
+            ("New Earth", [85]),
+            ("Tooth and Claw", [83]),
+            ("School Reunion", [85]),
+            ("The Girl in the Fireplace", [84]),
+            ("Rise of the Cybermen", [86, 86]),
+            ("The Idiot's Lantern", [84]),
+            ("The Impossible Planet", [85, 86]),
+            ("Love & Monsters", [76]),
+            ("Fear Her", [73]),
+            ("Doomsday", [86, 89])
+        ])),
+        (3, OrderedDict([
+            ("The Runaway Bride", [84]),
+            ("Smith and Jones", [88]),
+            ("The Shakespeare Code", [87]),
+            ("Gridlock", [85]),
+            ("Daleks in Manhattan", [86, 85]),
+            ("The Lazarus Experiment", [86]),
+            ("42", [85]),
+            ("Human Nature", [86, 86]),
+            ("Blink", [87]),
+            ("Last of the Time Lords", [87, 87, 88])
+        ])),
+        (4, OrderedDict([
+            ("Voyage of the Damned", [86]),
+            ("Partners in Crime", [88]),
+            ("The Fires of Pompeii", [87]),
+            ("Planet of the Ood", [87]),
+            ("The Poison Sky", [87, 88]),
+            ("The Doctor's Daughter", [88]),
+            ("The Unicorn and the Wasp", [86]),
+            ("Silence in the Library", [89, 89]),
+            ("Midnight", [86]),
+            ("Turn Left", [88]),
+            ("Journey's End", [91, 91])
+        ])),
+        ("S", OrderedDict([
+            ("The Next Doctor", [86]),
+            ("Planet of the Dead", [88]),
+            ("The Waters of Mars", [88]),
+            ("The End of Time", [87, 89])
+        ]))
+    ])),
+    (11, OrderedDict([ # Eleventh Doctor
+        (5, OrderedDict([
+            ("The Eleventh Hour", [86]),
+            ("The Beast Below", [86]),
+            ("Victory of the Daleks", [84]),
+            ("The Time of Angels", [87, 86]),
+            ("The Vampires of Venice", [86]),
+            ("Amy's Choice", [84]),
+            ("The Hungry Earth", [86, 85]),
+            ("Vincent and the Doctor", [86]),
+            ("The Lodger", [87]),
+            ("The Pandorica Opens", [88, 89])
+        ])),
+        (6, OrderedDict([
+            ("A Christmas Carol", [83]),
+            ("The Impossible Astronaut", [88, 87]),
+            ("The Curse of the Black Spot", [86]),
+            ("The Doctor's Wife", [87]),
+            ("The Rebel Flesh", [85, 86]),
+            ("A Good Man Goes to War", [88]),
+            ("Let's Kill Hitler", [85]),
+            ("Night Terrors", [86]),
+            ("The Girl Who Waited", [85]),
+            ("The God Complex", [86]),
+            ("Closing Time", [86]),
+            ("The Wedding of River Song", [86])
+        ])),
+        (7, OrderedDict([
+            ("The Doctor, the Widow and the Wardrobe", [84]),
+            ("Asylum of the Daleks", [89]),
+            ("Dinosaurs on a Spaceship", [87]),
+            ("A Town Called Mercy", [85]),
+            ("The Power of Three", [87]),
+            ("The Angels Take Manhattan", [88]),
+            ("The Snowmen", [87]),
+            ("The Bells of Saint John", [87]),
+            ("The Rings of Akhaten", [84]),
+            ("Cold War", [84]),
+            ("Hide", [85]),
+            ("Journey to the Centre of the TARDIS", [85]),
+            ("The Crimson Horror", [85]),
+            ("Nightmare in Silver", [84]),
+            ("The Name of the Doctor", [88])
+        ])),
+        ("S", OrderedDict([
+            ("The Day of the Doctor", [88]),
+            ("The Time of the Doctor", [83])
+        ]))
+    ])),
+    (12, OrderedDict([ # Twelth Doctor
+        (8, OrderedDict([
+            ("Deep Breath", [82]),
+            ("Into the Dalek", [84]),
+            ("Robot of Sherwood", [82]),
+            ("Listen", [82]),
+            ("Time Heist", [84]),
+            ("The Caretaker", [83]),
+            ("Kill the Moon", [82]),
+            ("Mummy on the Orient Express", [85]),
+            ("Flatline", [85]),
+            ("In the Forest of the Night", [83]),
+            ("Death in Heaven", [85, 83])
+        ])),
+        (9, OrderedDict([
+            ("Last Christmas", [82]),
+            ("The Magician's Apprentice", [84, 83]),
+            ("Under the Lake", [84, 83]),
+            ("The Girl Who Died", [82, 81]),
+            ("The Zygon Invasion", [82, 84]),
+            ("Sleep No More", [78]),
+            ("Heaven Sent", [84, 80, 82]),
+            ("The Husbands of River Song", [82])
+        ])),
+        (10, OrderedDict([
+            ("The Return of Doctor Mysterio", [82]),
+            ("The Pilot", [83]),
+            ("Smile", [83]),
+            ("Thin Ice", [84]),
+            ("Knock Knock", [83]),
+            ("Oxygen", [83]),
+            ("Extremis", [82]),
+            ("The Lie of the Land", [82, 82]),
+            ("Empress of Mars", [83]),
+            ("The Eaters of Light", [81]),
+            ("World Enough and Time", [85, 83]),
+            ("Twice Upon a Time", [81])
+        ]))
+    ])),
+    (13, OrderedDict([ # Thirteenth Doctor
+        (11, OrderedDict([
+            ("The Woman Who Fell to Earth", [83]),
+            ("The Ghost Monument", [82]),
+            ("Rosa", [83]),
+            ("Arachnids in the UK", [83]),
+            ("The Tsuranga Conundrum", [79]),
+            ("Demons of the Punjab", [80]),
+            ("Kerblam!", [81]),
+            ("The Witchfinders", [81]),
+            ("It Takes You Away", [80]),
+            ("The Battle of Ranskoor Av Kolos", [79]),
+            ("Resolution", [80])
+        ])),
+        (12, OrderedDict([
+            ("Spyfall", [82, 82]),
+            ("Orphan 55", [77]),
+            ("Nikola Tesla's Night of Terror", [79]),
+            ("Fugitive of the Judoon", [83]),
+            ("Praxeus", [78]),
+            ("Can You Hear Me?", [78]),
+            ("The Timeless Children", [80, 81, 82]),
+            ("Revolution of the Daleks", [79])
+        ])),
+        (13, OrderedDict([
+            ("Flux", [76, 77, 75, 79, 77, 76])
+        ]))
+    ]))
+])
