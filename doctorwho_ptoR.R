@@ -95,3 +95,7 @@ ggplot(data=test)+
                 axis.line = element_line(colour = "black"))
 
 
+### export to csv
+
+test<-test[,c("Doctor", "Season", "data_order", "title", "episode_number", "value", "Type", "score_type", "min.score", "max.score", "min.ep", "max.ep")]
+write.csv(test, file="C:/Users/Amy/Documents/GitHub/dw_graph/data.csv", row.names=FALSE)

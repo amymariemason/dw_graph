@@ -1,0 +1,869 @@
+"","Doctor","Season","data_order","title","episode_number","value","Type","score_type","min.score","max.score","min.ep","max.ep"
+"1","1","1",1,"An Unearthly Child",1,63,"Old Who","Score1",30,65,1,29.75
+"2","1","1",2,"An Unearthly Child",1.25,59,"Old Who","Score1",30,65,1,29.75
+"3","1","1",3,"An Unearthly Child",1.5,56,"Old Who","Score1",30,65,1,29.75
+"4","1","1",4,"An Unearthly Child",1.75,55,"Old Who","Score1",30,65,1,29.75
+"5","1","1",5,"The Daleks",2,59,"Old Who","Score1",30,65,1,29.75
+"6","1","1",6,"The Daleks",2.14285714285714,58,"Old Who","Score1",30,65,1,29.75
+"7","1","1",7,"The Daleks",2.28571428571429,63,"Old Who","Score1",30,65,1,29.75
+"8","1","1",8,"The Daleks",2.42857142857143,63,"Old Who","Score1",30,65,1,29.75
+"9","1","1",9,"The Daleks",2.57142857142857,63,"Old Who","Score1",30,65,1,29.75
+"10","1","1",10,"The Daleks",2.71428571428571,63,"Old Who","Score1",30,65,1,29.75
+"11","1","1",11,"The Daleks",2.85714285714286,65,"Old Who","Score1",30,65,1,29.75
+"12","1","1",12,"The Edge of Destruction",3,61,"Old Who","Score1",30,65,1,29.75
+"13","1","1",13,"The Edge of Destruction",3.5,60,"Old Who","Score1",30,65,1,29.75
+"14","1","1",14,"Marco Polo",4,63,"Old Who","Score1",30,65,1,29.75
+"15","1","1",15,"Marco Polo",4.14285714285714,62,"Old Who","Score1",30,65,1,29.75
+"16","1","1",16,"Marco Polo",4.28571428571429,62,"Old Who","Score1",30,65,1,29.75
+"17","1","1",17,"Marco Polo",4.42857142857143,60,"Old Who","Score1",30,65,1,29.75
+"18","1","1",18,"Marco Polo",4.57142857142857,59,"Old Who","Score1",30,65,1,29.75
+"19","1","1",19,"Marco Polo",4.71428571428571,59,"Old Who","Score1",30,65,1,29.75
+"20","1","1",20,"Marco Polo",4.85714285714286,59,"Old Who","Score1",30,65,1,29.75
+"21","1","1",21,"The Keys of Marinus",5,62,"Old Who","Score1",30,65,1,29.75
+"22","1","1",22,"The Keys of Marinus",5.16666666666667,60,"Old Who","Score1",30,65,1,29.75
+"23","1","1",23,"The Keys of Marinus",5.33333333333333,61,"Old Who","Score1",30,65,1,29.75
+"24","1","1",24,"The Keys of Marinus",5.5,60,"Old Who","Score1",30,65,1,29.75
+"25","1","1",25,"The Keys of Marinus",5.66666666666667,61,"Old Who","Score1",30,65,1,29.75
+"26","1","1",26,"The Keys of Marinus",5.83333333333333,63,"Old Who","Score1",30,65,1,29.75
+"27","1","1",27,"The Aztecs",6,62,"Old Who","Score1",30,65,1,29.75
+"28","1","1",28,"The Aztecs",6.25,62,"Old Who","Score1",30,65,1,29.75
+"29","1","1",29,"The Aztecs",6.5,57,"Old Who","Score1",30,65,1,29.75
+"30","1","1",30,"The Aztecs",6.75,58,"Old Who","Score1",30,65,1,29.75
+"31","1","1",31,"The Sensorites",7,59,"Old Who","Score1",30,65,1,29.75
+"32","1","1",32,"The Sensorites",7.16666666666667,59,"Old Who","Score1",30,65,1,29.75
+"33","1","1",33,"The Sensorites",7.33333333333333,56,"Old Who","Score1",30,65,1,29.75
+"34","1","1",34,"The Sensorites",7.5,60,"Old Who","Score1",30,65,1,29.75
+"35","1","1",35,"The Sensorites",7.66666666666667,57,"Old Who","Score1",30,65,1,29.75
+"36","1","1",36,"The Sensorites",7.83333333333333,57,"Old Who","Score1",30,65,1,29.75
+"37","1","1",37,"The Reign of Terror",8,58,"Old Who","Score1",30,65,1,29.75
+"38","1","1",38,"The Reign of Terror",8.16666666666667,54,"Old Who","Score1",30,65,1,29.75
+"39","1","1",39,"The Reign of Terror",8.33333333333333,55,"Old Who","Score1",30,65,1,29.75
+"40","1","1",40,"The Reign of Terror",8.5,53,"Old Who","Score1",30,65,1,29.75
+"41","1","1",41,"The Reign of Terror",8.66666666666667,53,"Old Who","Score1",30,65,1,29.75
+"42","1","1",42,"The Reign of Terror",8.83333333333333,55,"Old Who","Score1",30,65,1,29.75
+"43","1","2",43,"Planet of Giants",9,57,"Old Who","Score1",30,65,1,29.75
+"44","1","2",44,"Planet of Giants",9.33333333333333,58,"Old Who","Score1",30,65,1,29.75
+"45","1","2",45,"Planet of Giants",9.66666666666667,59,"Old Who","Score1",30,65,1,29.75
+"46","1","2",46,"The Dalek Invasion of Earth",10,63,"Old Who","Score1",30,65,1,29.75
+"47","1","2",47,"The Dalek Invasion of Earth",10.1666666666667,59,"Old Who","Score1",30,65,1,29.75
+"48","1","2",48,"The Dalek Invasion of Earth",10.3333333333333,59,"Old Who","Score1",30,65,1,29.75
+"49","1","2",49,"The Dalek Invasion of Earth",10.5,59,"Old Who","Score1",30,65,1,29.75
+"50","1","2",50,"The Dalek Invasion of Earth",10.6666666666667,58,"Old Who","Score1",30,65,1,29.75
+"51","1","2",51,"The Dalek Invasion of Earth",10.8333333333333,63,"Old Who","Score1",30,65,1,29.75
+"52","1","2",52,"The Rescue",11,57,"Old Who","Score1",30,65,1,29.75
+"53","1","2",53,"The Rescue",11.5,59,"Old Who","Score1",30,65,1,29.75
+"54","1","2",54,"The Romans",12,53,"Old Who","Score1",30,65,1,29.75
+"55","1","2",55,"The Romans",12.25,51,"Old Who","Score1",30,65,1,29.75
+"56","1","2",56,"The Romans",12.5,50,"Old Who","Score1",30,65,1,29.75
+"57","1","2",57,"The Romans",12.75,50,"Old Who","Score1",30,65,1,29.75
+"58","1","2",58,"The Web Planet",13,56,"Old Who","Score1",30,65,1,29.75
+"59","1","2",59,"The Web Planet",13.1666666666667,53,"Old Who","Score1",30,65,1,29.75
+"60","1","2",60,"The Web Planet",13.3333333333333,53,"Old Who","Score1",30,65,1,29.75
+"61","1","2",61,"The Web Planet",13.5,49,"Old Who","Score1",30,65,1,29.75
+"62","1","2",62,"The Web Planet",13.6666666666667,48,"Old Who","Score1",30,65,1,29.75
+"63","1","2",63,"The Web Planet",13.8333333333333,42,"Old Who","Score1",30,65,1,29.75
+"64","1","2",64,"The Crusade",14,51,"Old Who","Score1",30,65,1,29.75
+"65","1","2",65,"The Crusade",14.25,50,"Old Who","Score1",30,65,1,29.75
+"66","1","2",66,"The Crusade",14.5,49,"Old Who","Score1",30,65,1,29.75
+"67","1","2",67,"The Crusade",14.75,48,"Old Who","Score1",30,65,1,29.75
+"68","1","2",68,"The Space Museum",15,61,"Old Who","Score1",30,65,1,29.75
+"69","1","2",69,"The Space Museum",15.25,53,"Old Who","Score1",30,65,1,29.75
+"70","1","2",70,"The Space Museum",15.5,56,"Old Who","Score1",30,65,1,29.75
+"71","1","2",71,"The Space Museum",15.75,49,"Old Who","Score1",30,65,1,29.75
+"72","1","2",72,"The Chase",16,57,"Old Who","Score1",30,65,1,29.75
+"73","1","2",73,"The Chase",16.1666666666667,56,"Old Who","Score1",30,65,1,29.75
+"74","1","2",74,"The Chase",16.3333333333333,55,"Old Who","Score1",30,65,1,29.75
+"75","1","2",75,"The Chase",16.5,54,"Old Who","Score1",30,65,1,29.75
+"76","1","2",76,"The Chase",16.6666666666667,56,"Old Who","Score1",30,65,1,29.75
+"77","1","2",77,"The Chase",16.8333333333333,57,"Old Who","Score1",30,65,1,29.75
+"78","1","2",78,"The Time Meddler",17,57,"Old Who","Score1",30,65,1,29.75
+"79","1","2",79,"The Time Meddler",17.25,49,"Old Who","Score1",30,65,1,29.75
+"80","1","2",80,"The Time Meddler",17.5,53,"Old Who","Score1",30,65,1,29.75
+"81","1","2",81,"The Time Meddler",17.75,54,"Old Who","Score1",30,65,1,29.75
+"82","1","3",82,"Galaxy 4",18,56,"Old Who","Score1",30,65,1,29.75
+"83","1","3",83,"Galaxy 4",18.25,55,"Old Who","Score1",30,65,1,29.75
+"84","1","3",84,"Galaxy 4",18.5,54,"Old Who","Score1",30,65,1,29.75
+"85","1","3",85,"Galaxy 4",18.75,53,"Old Who","Score1",30,65,1,29.75
+"86","1","3",86,"Mission to the Unknown",19,54,"Old Who","Score1",30,65,1,29.75
+"87","1","3",87,"The Myth Makers",20,48,"Old Who","Score1",30,65,1,29.75
+"88","1","3",88,"The Myth Makers",20.25,51,"Old Who","Score1",30,65,1,29.75
+"89","1","3",89,"The Myth Makers",20.5,49,"Old Who","Score1",30,65,1,29.75
+"90","1","3",90,"The Myth Makers",20.75,52,"Old Who","Score1",30,65,1,29.75
+"91","1","3",91,"The Daleks' Master Plan",21,54,"Old Who","Score1",30,65,1,29.75
+"92","1","3",92,"The Daleks' Master Plan",21.0833333333333,52,"Old Who","Score1",30,65,1,29.75
+"93","1","3",93,"The Daleks' Master Plan",21.1666666666667,52,"Old Who","Score1",30,65,1,29.75
+"94","1","3",94,"The Daleks' Master Plan",21.25,51,"Old Who","Score1",30,65,1,29.75
+"95","1","3",95,"The Daleks' Master Plan",21.3333333333333,53,"Old Who","Score1",30,65,1,29.75
+"96","1","3",96,"The Daleks' Master Plan",21.4166666666667,56,"Old Who","Score1",30,65,1,29.75
+"97","1","3",97,"The Daleks' Master Plan",21.5,39,"Old Who","Score1",30,65,1,29.75
+"98","1","3",98,"The Daleks' Master Plan",21.5833333333333,49,"Old Who","Score1",30,65,1,29.75
+"99","1","3",99,"The Daleks' Master Plan",21.6666666666667,52,"Old Who","Score1",30,65,1,29.75
+"100","1","3",100,"The Daleks' Master Plan",21.75,50,"Old Who","Score1",30,65,1,29.75
+"101","1","3",101,"The Daleks' Master Plan",21.8333333333333,49,"Old Who","Score1",30,65,1,29.75
+"102","1","3",102,"The Daleks' Master Plan",21.9166666666667,57,"Old Who","Score1",30,65,1,29.75
+"103","1","3",103,"The Massacre of St Bartholomew's Eve",22,52,"Old Who","Score1",30,65,1,29.75
+"104","1","3",104,"The Massacre of St Bartholomew's Eve",22.25,52,"Old Who","Score1",30,65,1,29.75
+"105","1","3",105,"The Massacre of St Bartholomew's Eve",22.5,49,"Old Who","Score1",30,65,1,29.75
+"106","1","3",106,"The Massacre of St Bartholomew's Eve",22.75,53,"Old Who","Score1",30,65,1,29.75
+"107","1","3",107,"The Ark",23,55,"Old Who","Score1",30,65,1,29.75
+"108","1","3",108,"The Ark",23.25,56,"Old Who","Score1",30,65,1,29.75
+"109","1","3",109,"The Ark",23.5,51,"Old Who","Score1",30,65,1,29.75
+"110","1","3",110,"The Ark",23.75,50,"Old Who","Score1",30,65,1,29.75
+"111","1","3",111,"The Celestial Toymaker",24,48,"Old Who","Score1",30,65,1,29.75
+"112","1","3",112,"The Celestial Toymaker",24.25,49,"Old Who","Score1",30,65,1,29.75
+"113","1","3",113,"The Celestial Toymaker",24.5,44,"Old Who","Score1",30,65,1,29.75
+"114","1","3",114,"The Celestial Toymaker",24.75,43,"Old Who","Score1",30,65,1,29.75
+"115","1","3",115,"The Gunfighters",25,45,"Old Who","Score1",30,65,1,29.75
+"116","1","3",116,"The Gunfighters",25.25,39,"Old Who","Score1",30,65,1,29.75
+"117","1","3",117,"The Gunfighters",25.5,36,"Old Who","Score1",30,65,1,29.75
+"118","1","3",118,"The Gunfighters",25.75,30,"Old Who","Score1",30,65,1,29.75
+"119","1","3",119,"The Savages",26,48,"Old Who","Score1",30,65,1,29.75
+"120","1","3",120,"The Savages",26.25,49,"Old Who","Score1",30,65,1,29.75
+"121","1","3",121,"The Savages",26.5,48,"Old Who","Score1",30,65,1,29.75
+"122","1","3",122,"The Savages",26.75,48,"Old Who","Score1",30,65,1,29.75
+"123","1","3",123,"The War Machines",27,49,"Old Who","Score1",30,65,1,29.75
+"124","1","3",124,"The War Machines",27.25,45,"Old Who","Score1",30,65,1,29.75
+"125","1","3",125,"The War Machines",27.5,44,"Old Who","Score1",30,65,1,29.75
+"126","1","3",126,"The War Machines",27.75,39,"Old Who","Score1",30,65,1,29.75
+"127","1","4",127,"The Smugglers",28,47,"Old Who","Score1",30,65,1,29.75
+"128","1","4",128,"The Smugglers",28.25,45,"Old Who","Score1",30,65,1,29.75
+"129","1","4",129,"The Smugglers",28.5,43,"Old Who","Score1",30,65,1,29.75
+"130","1","4",130,"The Smugglers",28.75,43,"Old Who","Score1",30,65,1,29.75
+"131","1","4",131,"The Tenth Planet",29,50,"Old Who","Score1",30,65,1,29.75
+"132","1","4",132,"The Tenth Planet",29.25,58,"Old Who","Score1",30,65,1,29.75
+"133","1","4",133,"The Tenth Planet",29.5,58,"Old Who","Score1",30,65,1,29.75
+"134","1","4",134,"The Tenth Planet",29.75,47,"Old Who","Score1",30,65,1,29.75
+"135","2","4",135,"The Power of the Daleks",30,43,"Old Who","Score1",43,62,30,50.9
+"136","2","4",136,"The Power of the Daleks",30.1666666666667,45,"Old Who","Score1",43,62,30,50.9
+"137","2","4",137,"The Power of the Daleks",30.3333333333333,44,"Old Who","Score1",43,62,30,50.9
+"138","2","4",138,"The Power of the Daleks",30.5,47,"Old Who","Score1",43,62,30,50.9
+"139","2","4",139,"The Power of the Daleks",30.6666666666667,48,"Old Who","Score1",43,62,30,50.9
+"140","2","4",140,"The Power of the Daleks",30.8333333333333,47,"Old Who","Score1",43,62,30,50.9
+"141","2","4",141,"The Highlanders",31,57,"Old Who","Score1",43,62,30,50.9
+"142","2","4",142,"The Highlanders",31.25,56,"Old Who","Score1",43,62,30,50.9
+"143","2","4",143,"The Highlanders",31.5,57,"Old Who","Score1",43,62,30,50.9
+"144","2","4",144,"The Highlanders",31.75,57,"Old Who","Score1",43,62,30,50.9
+"145","2","4",145,"The Underwater Menace",32,48,"Old Who","Score1",43,62,30,50.9
+"146","2","4",146,"The Underwater Menace",32.25,46,"Old Who","Score1",43,62,30,50.9
+"147","2","4",147,"The Underwater Menace",32.5,45,"Old Who","Score1",43,62,30,50.9
+"148","2","4",148,"The Underwater Menace",32.75,47,"Old Who","Score1",43,62,30,50.9
+"149","2","4",149,"The Moonbase",33,50,"Old Who","Score1",43,62,30,50.9
+"150","2","4",150,"The Moonbase",33.25,49,"Old Who","Score1",43,62,30,50.9
+"151","2","4",151,"The Moonbase",33.5,53,"Old Who","Score1",43,62,30,50.9
+"152","2","4",152,"The Moonbase",33.75,58,"Old Who","Score1",43,62,30,50.9
+"153","2","4",153,"The Macra Terror",34,50,"Old Who","Score1",43,62,30,50.9
+"154","2","4",154,"The Macra Terror",34.25,48,"Old Who","Score1",43,62,30,50.9
+"155","2","4",155,"The Macra Terror",34.5,52,"Old Who","Score1",43,62,30,50.9
+"156","2","4",156,"The Macra Terror",34.75,49,"Old Who","Score1",43,62,30,50.9
+"157","2","4",157,"The Faceless Ones",35,51,"Old Who","Score1",43,62,30,50.9
+"158","2","4",158,"The Faceless Ones",35.1666666666667,50,"Old Who","Score1",43,62,30,50.9
+"159","2","4",159,"The Faceless Ones",35.3333333333333,53,"Old Who","Score1",43,62,30,50.9
+"160","2","4",160,"The Faceless Ones",35.5,55,"Old Who","Score1",43,62,30,50.9
+"161","2","4",161,"The Faceless Ones",35.6666666666667,55,"Old Who","Score1",43,62,30,50.9
+"162","2","4",162,"The Faceless Ones",35.8333333333333,52,"Old Who","Score1",43,62,30,50.9
+"163","2","4",163,"The Evil of the Daleks",36,51,"Old Who","Score1",43,62,30,50.9
+"164","2","4",164,"The Evil of the Daleks",36.1428571428571,51,"Old Who","Score1",43,62,30,50.9
+"165","2","4",165,"The Evil of the Daleks",36.2857142857143,52,"Old Who","Score1",43,62,30,50.9
+"166","2","4",166,"The Evil of the Daleks",36.4285714285714,51,"Old Who","Score1",43,62,30,50.9
+"167","2","4",167,"The Evil of the Daleks",36.5714285714286,53,"Old Who","Score1",43,62,30,50.9
+"168","2","4",168,"The Evil of the Daleks",36.7142857142857,49,"Old Who","Score1",43,62,30,50.9
+"169","2","4",169,"The Evil of the Daleks",36.8571428571429,56,"Old Who","Score1",43,62,30,50.9
+"170","2","5",170,"The Tomb of the Cybermen",37,53,"Old Who","Score1",43,62,30,50.9
+"171","2","5",171,"The Tomb of the Cybermen",37.25,52,"Old Who","Score1",43,62,30,50.9
+"172","2","5",172,"The Tomb of the Cybermen",37.5,49,"Old Who","Score1",43,62,30,50.9
+"173","2","5",173,"The Tomb of the Cybermen",37.75,50,"Old Who","Score1",43,62,30,50.9
+"174","2","5",174,"The Abominable Snowmen",38,50,"Old Who","Score1",43,62,30,50.9
+"175","2","5",175,"The Abominable Snowmen",38.1666666666667,52,"Old Who","Score1",43,62,30,50.9
+"176","2","5",176,"The Abominable Snowmen",38.3333333333333,51,"Old Who","Score1",43,62,30,50.9
+"177","2","5",177,"The Abominable Snowmen",38.5,50,"Old Who","Score1",43,62,30,50.9
+"178","2","5",178,"The Abominable Snowmen",38.6666666666667,51,"Old Who","Score1",43,62,30,50.9
+"179","2","5",179,"The Abominable Snowmen",38.8333333333333,52,"Old Who","Score1",43,62,30,50.9
+"180","2","5",180,"The Ice Warriors",39,52,"Old Who","Score1",43,62,30,50.9
+"181","2","5",181,"The Ice Warriors",39.1666666666667,52,"Old Who","Score1",43,62,30,50.9
+"182","2","5",182,"The Ice Warriors",39.3333333333333,51,"Old Who","Score1",43,62,30,50.9
+"183","2","5",183,"The Ice Warriors",39.5,51,"Old Who","Score1",43,62,30,50.9
+"184","2","5",184,"The Ice Warriors",39.6666666666667,50,"Old Who","Score1",43,62,30,50.9
+"185","2","5",185,"The Ice Warriors",39.8333333333333,51,"Old Who","Score1",43,62,30,50.9
+"186","2","5",186,"The Enemy of the World",40,50,"Old Who","Score1",43,62,30,50.9
+"187","2","5",187,"The Enemy of the World",40.1666666666667,49,"Old Who","Score1",43,62,30,50.9
+"188","2","5",188,"The Enemy of the World",40.3333333333333,48,"Old Who","Score1",43,62,30,50.9
+"189","2","5",189,"The Enemy of the World",40.5,49,"Old Who","Score1",43,62,30,50.9
+"190","2","5",190,"The Enemy of the World",40.6666666666667,49,"Old Who","Score1",43,62,30,50.9
+"191","2","5",191,"The Enemy of the World",40.8333333333333,52,"Old Who","Score1",43,62,30,50.9
+"192","2","5",192,"The Web of Fear",41,54,"Old Who","Score1",43,62,30,50.9
+"193","2","5",193,"The Web of Fear",41.1666666666667,53,"Old Who","Score1",43,62,30,50.9
+"194","2","5",194,"The Web of Fear",41.3333333333333,51,"Old Who","Score1",43,62,30,50.9
+"195","2","5",195,"The Web of Fear",41.5,53,"Old Who","Score1",43,62,30,50.9
+"196","2","5",196,"The Web of Fear",41.6666666666667,55,"Old Who","Score1",43,62,30,50.9
+"197","2","5",197,"The Web of Fear",41.8333333333333,55,"Old Who","Score1",43,62,30,50.9
+"198","2","5",198,"Fury from the Deep",42,55,"Old Who","Score1",43,62,30,50.9
+"199","2","5",199,"Fury from the Deep",42.1666666666667,55,"Old Who","Score1",43,62,30,50.9
+"200","2","5",200,"Fury from the Deep",42.3333333333333,56,"Old Who","Score1",43,62,30,50.9
+"201","2","5",201,"Fury from the Deep",42.5,56,"Old Who","Score1",43,62,30,50.9
+"202","2","5",202,"Fury from the Deep",42.6666666666667,56,"Old Who","Score1",43,62,30,50.9
+"203","2","5",203,"Fury from the Deep",42.8333333333333,57,"Old Who","Score1",43,62,30,50.9
+"204","2","5",204,"The Wheel in Space",43,57,"Old Who","Score1",43,62,30,50.9
+"205","2","5",205,"The Wheel in Space",43.1666666666667,60,"Old Who","Score1",43,62,30,50.9
+"206","2","5",206,"The Wheel in Space",43.3333333333333,55,"Old Who","Score1",43,62,30,50.9
+"207","2","5",207,"The Wheel in Space",43.5,56,"Old Who","Score1",43,62,30,50.9
+"208","2","5",208,"The Wheel in Space",43.6666666666667,57,"Old Who","Score1",43,62,30,50.9
+"209","2","5",209,"The Wheel in Space",43.8333333333333,62,"Old Who","Score1",43,62,30,50.9
+"210","2","6",210,"The Dominators",44,52,"Old Who","Score1",43,62,30,50.9
+"211","2","6",211,"The Dominators",44.2,55,"Old Who","Score1",43,62,30,50.9
+"212","2","6",212,"The Dominators",44.4,55,"Old Who","Score1",43,62,30,50.9
+"213","2","6",213,"The Dominators",44.6,51,"Old Who","Score1",43,62,30,50.9
+"214","2","6",214,"The Dominators",44.8,53,"Old Who","Score1",43,62,30,50.9
+"215","2","6",215,"The Mind Robber",45,51,"Old Who","Score1",43,62,30,50.9
+"216","2","6",216,"The Mind Robber",45.2,49,"Old Who","Score1",43,62,30,50.9
+"217","2","6",217,"The Mind Robber",45.4,53,"Old Who","Score1",43,62,30,50.9
+"218","2","6",218,"The Mind Robber",45.6,56,"Old Who","Score1",43,62,30,50.9
+"219","2","6",219,"The Mind Robber",45.8,49,"Old Who","Score1",43,62,30,50.9
+"220","2","6",220,"The Invasion",46,55,"Old Who","Score1",43,62,30,50.9
+"221","2","6",221,"The Invasion",46.125,53,"Old Who","Score1",43,62,30,50.9
+"222","2","6",222,"The Invasion",46.25,54,"Old Who","Score1",43,62,30,50.9
+"223","2","6",223,"The Invasion",46.375,51,"Old Who","Score1",43,62,30,50.9
+"224","2","6",224,"The Invasion",46.5,52,"Old Who","Score1",43,62,30,50.9
+"225","2","6",225,"The Invasion",46.625,56,"Old Who","Score1",43,62,30,50.9
+"226","2","6",226,"The Invasion",46.75,55,"Old Who","Score1",43,62,30,50.9
+"227","2","6",227,"The Invasion",46.875,53,"Old Who","Score1",43,62,30,50.9
+"228","2","6",228,"The Krotons",47,59,"Old Who","Score1",43,62,30,50.9
+"229","2","6",229,"The Krotons",47.25,57,"Old Who","Score1",43,62,30,50.9
+"230","2","6",230,"The Krotons",47.5,56,"Old Who","Score1",43,62,30,50.9
+"231","2","6",231,"The Krotons",47.75,55,"Old Who","Score1",43,62,30,50.9
+"232","2","6",232,"The Seeds of Death",48,57,"Old Who","Score1",43,62,30,50.9
+"233","2","6",233,"The Seeds of Death",48.1666666666667,59,"Old Who","Score1",43,62,30,50.9
+"234","2","6",234,"The Seeds of Death",48.3333333333333,55,"Old Who","Score1",43,62,30,50.9
+"235","2","6",235,"The Seeds of Death",48.5,55,"Old Who","Score1",43,62,30,50.9
+"236","2","6",236,"The Seeds of Death",48.6666666666667,57,"Old Who","Score1",43,62,30,50.9
+"237","2","6",237,"The Seeds of Death",48.8333333333333,59,"Old Who","Score1",43,62,30,50.9
+"238","2","6",238,"The Space Pirates",49,57,"Old Who","Score1",43,62,30,50.9
+"239","2","6",239,"The Space Pirates",49.1666666666667,52,"Old Who","Score1",43,62,30,50.9
+"240","2","6",240,"The Space Pirates",49.3333333333333,55,"Old Who","Score1",43,62,30,50.9
+"241","2","6",241,"The Space Pirates",49.5,53,"Old Who","Score1",43,62,30,50.9
+"242","2","6",242,"The Space Pirates",49.6666666666667,56,"Old Who","Score1",43,62,30,50.9
+"243","2","6",243,"The Space Pirates",49.8333333333333,52,"Old Who","Score1",43,62,30,50.9
+"244","2","6",244,"The War Games",50,55,"Old Who","Score1",43,62,30,50.9
+"245","2","6",245,"The War Games",50.1,54,"Old Who","Score1",43,62,30,50.9
+"246","2","6",246,"The War Games",50.2,53,"Old Who","Score1",43,62,30,50.9
+"247","2","6",247,"The War Games",50.3,50,"Old Who","Score1",43,62,30,50.9
+"248","2","6",248,"The War Games",50.4,53,"Old Who","Score1",43,62,30,50.9
+"249","2","6",249,"The War Games",50.5,53,"Old Who","Score1",43,62,30,50.9
+"250","2","6",250,"The War Games",50.6,53,"Old Who","Score1",43,62,30,50.9
+"251","2","6",251,"The War Games",50.7,53,"Old Who","Score1",43,62,30,50.9
+"252","2","6",252,"The War Games",50.8,57,"Old Who","Score1",43,62,30,50.9
+"253","2","6",253,"The War Games",50.9,58,"Old Who","Score1",43,62,30,50.9
+"254","3","7",254,"Spearhead from Space",51,54,"Old Who","Score1",54,63,51,74.8333333333333
+"255","3","7",255,"Spearhead from Space",51.25,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"256","3","7",256,"Spearhead from Space",51.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"257","3","7",257,"Spearhead from Space",51.75,57,"Old Who","Score1",54,63,51,74.8333333333333
+"258","3","7",258,"Doctor Who and the Silurians",52,58,"Old Who","Score1",54,63,51,74.8333333333333
+"259","3","7",259,"Doctor Who and the Silurians",52.1428571428571,58,"Old Who","Score1",54,63,51,74.8333333333333
+"260","3","7",260,"Doctor Who and the Silurians",52.2857142857143,57,"Old Who","Score1",54,63,51,74.8333333333333
+"261","3","7",261,"Doctor Who and the Silurians",52.4285714285714,60,"Old Who","Score1",54,63,51,74.8333333333333
+"262","3","7",262,"Doctor Who and the Silurians",52.5714285714286,58,"Old Who","Score1",54,63,51,74.8333333333333
+"263","3","7",263,"Doctor Who and the Silurians",52.7142857142857,57,"Old Who","Score1",54,63,51,74.8333333333333
+"264","3","7",264,"Doctor Who and the Silurians",52.8571428571429,58,"Old Who","Score1",54,63,51,74.8333333333333
+"265","3","7",265,"The Ambassadors of Death",53,60,"Old Who","Score1",54,63,51,74.8333333333333
+"266","3","7",266,"The Ambassadors of Death",53.1428571428571,61,"Old Who","Score1",54,63,51,74.8333333333333
+"267","3","7",267,"The Ambassadors of Death",53.2857142857143,59,"Old Who","Score1",54,63,51,74.8333333333333
+"268","3","7",268,"The Ambassadors of Death",53.4285714285714,58,"Old Who","Score1",54,63,51,74.8333333333333
+"269","3","7",269,"The Ambassadors of Death",53.5714285714286,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"270","3","7",270,"The Ambassadors of Death",53.7142857142857,61,"Old Who","Score1",54,63,51,74.8333333333333
+"271","3","7",271,"The Ambassadors of Death",53.8571428571429,62,"Old Who","Score1",54,63,51,74.8333333333333
+"272","3","7",272,"Inferno",54,61,"Old Who","Score1",54,63,51,74.8333333333333
+"273","3","7",273,"Inferno",54.1428571428571,61,"Old Who","Score1",54,63,51,74.8333333333333
+"274","3","7",274,"Inferno",54.2857142857143,60,"Old Who","Score1",54,63,51,74.8333333333333
+"275","3","7",275,"Inferno",54.4285714285714,60,"Old Who","Score1",54,63,51,74.8333333333333
+"276","3","7",276,"Inferno",54.5714285714286,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"277","3","7",277,"Inferno",54.7142857142857,58,"Old Who","Score1",54,63,51,74.8333333333333
+"278","3","7",278,"Inferno",54.8571428571429,60,"Old Who","Score1",54,63,51,74.8333333333333
+"279","3","8",279,"Terror of the Autons",55,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"280","3","8",280,"Terror of the Autons",55.25,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"281","3","8",281,"Terror of the Autons",55.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"282","3","8",282,"Terror of the Autons",55.75,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"283","3","8",283,"The Mind of Evil",56,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"284","3","8",284,"The Mind of Evil",56.1666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"285","3","8",285,"The Mind of Evil",56.3333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"286","3","8",286,"The Mind of Evil",56.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"287","3","8",287,"The Mind of Evil",56.6666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"288","3","8",288,"The Mind of Evil",56.8333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"289","3","8",289,"The Claws of Axos",57,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"290","3","8",290,"The Claws of Axos",57.25,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"291","3","8",291,"The Claws of Axos",57.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"292","3","8",292,"The Claws of Axos",57.75,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"293","3","8",293,"Colony in Space",58,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"294","3","8",294,"Colony in Space",58.1666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"295","3","8",295,"Colony in Space",58.3333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"296","3","8",296,"Colony in Space",58.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"297","3","8",297,"Colony in Space",58.6666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"298","3","8",298,"Colony in Space",58.8333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"299","3","8",299,"The Daemons",59,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"300","3","8",300,"The Daemons",59.2,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"301","3","8",301,"The Daemons",59.4,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"302","3","8",302,"The Daemons",59.6,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"303","3","8",303,"The Daemons",59.8,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"304","3","9",304,"Day of the Daleks",60,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"305","3","9",305,"Day of the Daleks",60.25,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"306","3","9",306,"Day of the Daleks",60.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"307","3","9",307,"Day of the Daleks",60.75,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"308","3","9",308,"The Curse of Peladon",61,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"309","3","9",309,"The Curse of Peladon",61.25,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"310","3","9",310,"The Curse of Peladon",61.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"311","3","9",311,"The Curse of Peladon",61.75,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"312","3","9",312,"The Sea Devils",62,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"313","3","9",313,"The Sea Devils",62.1666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"314","3","9",314,"The Sea Devils",62.3333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"315","3","9",315,"The Sea Devils",62.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"316","3","9",316,"The Sea Devils",62.6666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"317","3","9",317,"The Sea Devils",62.8333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"318","3","9",318,"The Mutants",63,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"319","3","9",319,"The Mutants",63.1666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"320","3","9",320,"The Mutants",63.3333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"321","3","9",321,"The Mutants",63.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"322","3","9",322,"The Mutants",63.6666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"323","3","9",323,"The Mutants",63.8333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"324","3","9",324,"The Time Monster",64,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"325","3","9",325,"The Time Monster",64.1666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"326","3","9",326,"The Time Monster",64.3333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"327","3","9",327,"The Time Monster",64.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"328","3","9",328,"The Time Monster",64.6666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"329","3","9",329,"The Time Monster",64.8333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"330","3","10",330,"The Three Doctors",65,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"331","3","10",331,"The Three Doctors",65.25,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"332","3","10",332,"The Three Doctors",65.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"333","3","10",333,"The Three Doctors",65.75,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"334","3","10",334,"Carnival of Monsters",66,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"335","3","10",335,"Carnival of Monsters",66.25,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"336","3","10",336,"Carnival of Monsters",66.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"337","3","10",337,"Carnival of Monsters",66.75,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"338","3","10",338,"Frontier in Space",67,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"339","3","10",339,"Frontier in Space",67.1666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"340","3","10",340,"Frontier in Space",67.3333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"341","3","10",341,"Frontier in Space",67.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"342","3","10",342,"Frontier in Space",67.6666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"343","3","10",343,"Frontier in Space",67.8333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"344","3","10",344,"Planet of the Daleks",68,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"345","3","10",345,"Planet of the Daleks",68.1666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"346","3","10",346,"Planet of the Daleks",68.3333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"347","3","10",347,"Planet of the Daleks",68.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"348","3","10",348,"Planet of the Daleks",68.6666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"349","3","10",349,"Planet of the Daleks",68.8333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"350","3","10",350,"The Green Death",69,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"351","3","10",351,"The Green Death",69.1666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"352","3","10",352,"The Green Death",69.3333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"353","3","10",353,"The Green Death",69.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"354","3","10",354,"The Green Death",69.6666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"355","3","10",355,"The Green Death",69.8333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"356","3","11",356,"The Time Warrior",70,59,"Old Who","Score1",54,63,51,74.8333333333333
+"357","3","11",357,"The Time Warrior",70.25,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"358","3","11",358,"The Time Warrior",70.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"359","3","11",359,"The Time Warrior",70.75,60,"Old Who","Score1",54,63,51,74.8333333333333
+"360","3","11",360,"Invasion of the Dinosaurs",71,62,"Old Who","Score1",54,63,51,74.8333333333333
+"361","3","11",361,"Invasion of the Dinosaurs",71.1666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"362","3","11",362,"Invasion of the Dinosaurs",71.3333333333333,63,"Old Who","Score1",54,63,51,74.8333333333333
+"363","3","11",363,"Invasion of the Dinosaurs",71.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"364","3","11",364,"Invasion of the Dinosaurs",71.6666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"365","3","11",365,"Invasion of the Dinosaurs",71.8333333333333,62,"Old Who","Score1",54,63,51,74.8333333333333
+"366","3","11",366,"Death to the Daleks",72,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"367","3","11",367,"Death to the Daleks",72.3333333333333,61,"Old Who","Score1",54,63,51,74.8333333333333
+"368","3","11",368,"Death to the Daleks",72.6666666666667,62,"Old Who","Score1",54,63,51,74.8333333333333
+"369","3","11",369,"The Monster of Peladon",73,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"370","3","11",370,"The Monster of Peladon",73.1666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"371","3","11",371,"The Monster of Peladon",73.3333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"372","3","11",372,"The Monster of Peladon",73.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"373","3","11",373,"The Monster of Peladon",73.6666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"374","3","11",374,"The Monster of Peladon",73.8333333333333,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"375","3","11",375,"Planet of the Spiders",74,58,"Old Who","Score1",54,63,51,74.8333333333333
+"376","3","11",376,"Planet of the Spiders",74.1666666666667,60,"Old Who","Score1",54,63,51,74.8333333333333
+"377","3","11",377,"Planet of the Spiders",74.3333333333333,57,"Old Who","Score1",54,63,51,74.8333333333333
+"378","3","11",378,"Planet of the Spiders",74.5,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"379","3","11",379,"Planet of the Spiders",74.6666666666667,NA,"Old Who","Score1",54,63,51,74.8333333333333
+"380","3","11",380,"Planet of the Spiders",74.8333333333333,56,"Old Who","Score1",54,63,51,74.8333333333333
+"381","4","12",381,"Robot",75,53,"Old Who","Score1",51,75,75,115.75
+"382","4","12",382,"Robot",75.25,53,"Old Who","Score1",51,75,75,115.75
+"383","4","12",383,"Robot",75.5,NA,"Old Who","Score1",51,75,75,115.75
+"384","4","12",384,"Robot",75.75,51,"Old Who","Score1",51,75,75,115.75
+"385","4","12",385,"The Ark in Space",76,NA,"Old Who","Score1",51,75,75,115.75
+"386","4","12",386,"The Ark in Space",76.25,NA,"Old Who","Score1",51,75,75,115.75
+"387","4","12",387,"The Ark in Space",76.5,NA,"Old Who","Score1",51,75,75,115.75
+"388","4","12",388,"The Ark in Space",76.75,NA,"Old Who","Score1",51,75,75,115.75
+"389","4","12",389,"The Sontaran Experiment",77,NA,"Old Who","Score1",51,75,75,115.75
+"390","4","12",390,"The Sontaran Experiment",77.5,55,"Old Who","Score1",51,75,75,115.75
+"391","4","12",391,"Genesis of the Daleks",78,NA,"Old Who","Score1",51,75,75,115.75
+"392","4","12",392,"Genesis of the Daleks",78.1666666666667,57,"Old Who","Score1",51,75,75,115.75
+"393","4","12",393,"Genesis of the Daleks",78.3333333333333,NA,"Old Who","Score1",51,75,75,115.75
+"394","4","12",394,"Genesis of the Daleks",78.5,58,"Old Who","Score1",51,75,75,115.75
+"395","4","12",395,"Genesis of the Daleks",78.6666666666667,57,"Old Who","Score1",51,75,75,115.75
+"396","4","12",396,"Genesis of the Daleks",78.8333333333333,56,"Old Who","Score1",51,75,75,115.75
+"397","4","12",397,"Revenge of the Cybermen",79,57,"Old Who","Score1",51,75,75,115.75
+"398","4","12",398,"Revenge of the Cybermen",79.25,NA,"Old Who","Score1",51,75,75,115.75
+"399","4","12",399,"Revenge of the Cybermen",79.5,NA,"Old Who","Score1",51,75,75,115.75
+"400","4","12",400,"Revenge of the Cybermen",79.75,58,"Old Who","Score1",51,75,75,115.75
+"401","4","13",401,"Terror of the Zygons",80,59,"Old Who","Score1",51,75,75,115.75
+"402","4","13",402,"Terror of the Zygons",80.25,NA,"Old Who","Score1",51,75,75,115.75
+"403","4","13",403,"Terror of the Zygons",80.5,54,"Old Who","Score1",51,75,75,115.75
+"404","4","13",404,"Terror of the Zygons",80.75,NA,"Old Who","Score1",51,75,75,115.75
+"405","4","13",405,"Planet of Evil",81,NA,"Old Who","Score1",51,75,75,115.75
+"406","4","13",406,"Planet of Evil",81.25,56,"Old Who","Score1",51,75,75,115.75
+"407","4","13",407,"Planet of Evil",81.5,57,"Old Who","Score1",51,75,75,115.75
+"408","4","13",408,"Planet of Evil",81.75,54,"Old Who","Score1",51,75,75,115.75
+"409","4","13",409,"Pyramids of Mars",82,NA,"Old Who","Score1",51,75,75,115.75
+"410","4","13",410,"Pyramids of Mars",82.25,NA,"Old Who","Score1",51,75,75,115.75
+"411","4","13",411,"Pyramids of Mars",82.5,NA,"Old Who","Score1",51,75,75,115.75
+"412","4","13",412,"Pyramids of Mars",82.75,60,"Old Who","Score1",51,75,75,115.75
+"413","4","13",413,"The Android Invasion",83,58,"Old Who","Score1",51,75,75,115.75
+"414","4","13",414,"The Android Invasion",83.25,NA,"Old Who","Score1",51,75,75,115.75
+"415","4","13",415,"The Android Invasion",83.5,NA,"Old Who","Score1",51,75,75,115.75
+"416","4","13",416,"The Android Invasion",83.75,NA,"Old Who","Score1",51,75,75,115.75
+"417","4","13",417,"The Brain of Morbius",84,NA,"Old Who","Score1",51,75,75,115.75
+"418","4","13",418,"The Brain of Morbius",84.25,NA,"Old Who","Score1",51,75,75,115.75
+"419","4","13",419,"The Brain of Morbius",84.5,57,"Old Who","Score1",51,75,75,115.75
+"420","4","13",420,"The Brain of Morbius",84.75,NA,"Old Who","Score1",51,75,75,115.75
+"421","4","13",421,"The Seeds of Doom",85,59,"Old Who","Score1",51,75,75,115.75
+"422","4","13",422,"The Seeds of Doom",85.1666666666667,NA,"Old Who","Score1",51,75,75,115.75
+"423","4","13",423,"The Seeds of Doom",85.3333333333333,NA,"Old Who","Score1",51,75,75,115.75
+"424","4","13",424,"The Seeds of Doom",85.5,NA,"Old Who","Score1",51,75,75,115.75
+"425","4","13",425,"The Seeds of Doom",85.6666666666667,NA,"Old Who","Score1",51,75,75,115.75
+"426","4","13",426,"The Seeds of Doom",85.8333333333333,NA,"Old Who","Score1",51,75,75,115.75
+"427","4","14",427,"The Masque of Mandragora",86,58,"Old Who","Score1",51,75,75,115.75
+"428","4","14",428,"The Masque of Mandragora",86.25,56,"Old Who","Score1",51,75,75,115.75
+"429","4","14",429,"The Masque of Mandragora",86.5,NA,"Old Who","Score1",51,75,75,115.75
+"430","4","14",430,"The Masque of Mandragora",86.75,56,"Old Who","Score1",51,75,75,115.75
+"431","4","14",431,"The Hand of Fear",87,NA,"Old Who","Score1",51,75,75,115.75
+"432","4","14",432,"The Hand of Fear",87.25,NA,"Old Who","Score1",51,75,75,115.75
+"433","4","14",433,"The Hand of Fear",87.5,62,"Old Who","Score1",51,75,75,115.75
+"434","4","14",434,"The Hand of Fear",87.75,NA,"Old Who","Score1",51,75,75,115.75
+"435","4","14",435,"The Deadly Assassin",88,NA,"Old Who","Score1",51,75,75,115.75
+"436","4","14",436,"The Deadly Assassin",88.25,59,"Old Who","Score1",51,75,75,115.75
+"437","4","14",437,"The Deadly Assassin",88.5,NA,"Old Who","Score1",51,75,75,115.75
+"438","4","14",438,"The Deadly Assassin",88.75,61,"Old Who","Score1",51,75,75,115.75
+"439","4","14",439,"The Face of Evil",89,61,"Old Who","Score1",51,75,75,115.75
+"440","4","14",440,"The Face of Evil",89.25,NA,"Old Who","Score1",51,75,75,115.75
+"441","4","14",441,"The Face of Evil",89.5,59,"Old Who","Score1",51,75,75,115.75
+"442","4","14",442,"The Face of Evil",89.75,60,"Old Who","Score1",51,75,75,115.75
+"443","4","14",443,"The Robots of Death",90,62,"Old Who","Score1",51,75,75,115.75
+"444","4","14",444,"The Robots of Death",90.25,NA,"Old Who","Score1",51,75,75,115.75
+"445","4","14",445,"The Robots of Death",90.5,NA,"Old Who","Score1",51,75,75,115.75
+"446","4","14",446,"The Robots of Death",90.75,57,"Old Who","Score1",51,75,75,115.75
+"447","4","14",447,"The Talons of Weng-Chiang",91,NA,"Old Who","Score1",51,75,75,115.75
+"448","4","14",448,"The Talons of Weng-Chiang",91.1666666666667,NA,"Old Who","Score1",51,75,75,115.75
+"449","4","14",449,"The Talons of Weng-Chiang",91.3333333333333,NA,"Old Who","Score1",51,75,75,115.75
+"450","4","14",450,"The Talons of Weng-Chiang",91.5,60,"Old Who","Score1",51,75,75,115.75
+"451","4","14",451,"The Talons of Weng-Chiang",91.6666666666667,NA,"Old Who","Score1",51,75,75,115.75
+"452","4","14",452,"The Talons of Weng-Chiang",91.8333333333333,58,"Old Who","Score1",51,75,75,115.75
+"453","4","15",453,"The Horror of Fang Rock",92,58,"Old Who","Score1",51,75,75,115.75
+"454","4","15",454,"The Horror of Fang Rock",92.25,NA,"Old Who","Score1",51,75,75,115.75
+"455","4","15",455,"The Horror of Fang Rock",92.5,60,"Old Who","Score1",51,75,75,115.75
+"456","4","15",456,"The Horror of Fang Rock",92.75,57,"Old Who","Score1",51,75,75,115.75
+"457","4","15",457,"The Invisible Enemy",93,NA,"Old Who","Score1",51,75,75,115.75
+"458","4","15",458,"The Invisible Enemy",93.25,NA,"Old Who","Score1",51,75,75,115.75
+"459","4","15",459,"The Invisible Enemy",93.5,NA,"Old Who","Score1",51,75,75,115.75
+"460","4","15",460,"The Invisible Enemy",93.75,60,"Old Who","Score1",51,75,75,115.75
+"461","4","15",461,"Image of the Fendahl",94,NA,"Old Who","Score1",51,75,75,115.75
+"462","4","15",462,"Image of the Fendahl",94.25,75,"Old Who","Score1",51,75,75,115.75
+"463","4","15",463,"Image of the Fendahl",94.5,NA,"Old Who","Score1",51,75,75,115.75
+"464","4","15",464,"Image of the Fendahl",94.75,61,"Old Who","Score1",51,75,75,115.75
+"465","4","15",465,"The Sun Makers",95,NA,"Old Who","Score1",51,75,75,115.75
+"466","4","15",466,"The Sun Makers",95.25,NA,"Old Who","Score1",51,75,75,115.75
+"467","4","15",467,"The Sun Makers",95.5,68,"Old Who","Score1",51,75,75,115.75
+"468","4","15",468,"The Sun Makers",95.75,59,"Old Who","Score1",51,75,75,115.75
+"469","4","15",469,"Underworld",96,65,"Old Who","Score1",51,75,75,115.75
+"470","4","15",470,"Underworld",96.25,NA,"Old Who","Score1",51,75,75,115.75
+"471","4","15",471,"Underworld",96.5,NA,"Old Who","Score1",51,75,75,115.75
+"472","4","15",472,"Underworld",96.75,NA,"Old Who","Score1",51,75,75,115.75
+"473","4","15",473,"The Invasion of Time",97,56,"Old Who","Score1",51,75,75,115.75
+"474","4","15",474,"The Invasion of Time",97.1666666666667,NA,"Old Who","Score1",51,75,75,115.75
+"475","4","15",475,"The Invasion of Time",97.3333333333333,NA,"Old Who","Score1",51,75,75,115.75
+"476","4","15",476,"The Invasion of Time",97.5,NA,"Old Who","Score1",51,75,75,115.75
+"477","4","15",477,"The Invasion of Time",97.6666666666667,NA,"Old Who","Score1",51,75,75,115.75
+"478","4","15",478,"The Invasion of Time",97.8333333333333,NA,"Old Who","Score1",51,75,75,115.75
+"479","4","16",479,"The Ribos Operation",98,59,"Old Who","Score1",51,75,75,115.75
+"480","4","16",480,"The Ribos Operation",98.25,NA,"Old Who","Score1",51,75,75,115.75
+"481","4","16",481,"The Ribos Operation",98.5,NA,"Old Who","Score1",51,75,75,115.75
+"482","4","16",482,"The Ribos Operation",98.75,67,"Old Who","Score1",51,75,75,115.75
+"483","4","16",483,"The Pirate Planet",99,61,"Old Who","Score1",51,75,75,115.75
+"484","4","16",484,"The Pirate Planet",99.25,NA,"Old Who","Score1",51,75,75,115.75
+"485","4","16",485,"The Pirate Planet",99.5,64,"Old Who","Score1",51,75,75,115.75
+"486","4","16",486,"The Pirate Planet",99.75,64,"Old Who","Score1",51,75,75,115.75
+"487","4","16",487,"The Stones of Blood",100,NA,"Old Who","Score1",51,75,75,115.75
+"488","4","16",488,"The Stones of Blood",100.25,NA,"Old Who","Score1",51,75,75,115.75
+"489","4","16",489,"The Stones of Blood",100.5,NA,"Old Who","Score1",51,75,75,115.75
+"490","4","16",490,"The Stones of Blood",100.75,67,"Old Who","Score1",51,75,75,115.75
+"491","4","16",491,"The Androids of Tara",101,NA,"Old Who","Score1",51,75,75,115.75
+"492","4","16",492,"The Androids of Tara",101.25,65,"Old Who","Score1",51,75,75,115.75
+"493","4","16",493,"The Androids of Tara",101.5,NA,"Old Who","Score1",51,75,75,115.75
+"494","4","16",494,"The Androids of Tara",101.75,66,"Old Who","Score1",51,75,75,115.75
+"495","4","16",495,"The Power of Kroll",102,NA,"Old Who","Score1",51,75,75,115.75
+"496","4","16",496,"The Power of Kroll",102.25,NA,"Old Who","Score1",51,75,75,115.75
+"497","4","16",497,"The Power of Kroll",102.5,NA,"Old Who","Score1",51,75,75,115.75
+"498","4","16",498,"The Power of Kroll",102.75,63,"Old Who","Score1",51,75,75,115.75
+"499","4","16",499,"The Armageddon Factor",103,65,"Old Who","Score1",51,75,75,115.75
+"500","4","16",500,"The Armageddon Factor",103.166666666667,NA,"Old Who","Score1",51,75,75,115.75
+"501","4","16",501,"The Armageddon Factor",103.333333333333,NA,"Old Who","Score1",51,75,75,115.75
+"502","4","16",502,"The Armageddon Factor",103.5,NA,"Old Who","Score1",51,75,75,115.75
+"503","4","16",503,"The Armageddon Factor",103.666666666667,NA,"Old Who","Score1",51,75,75,115.75
+"504","4","16",504,"The Armageddon Factor",103.833333333333,66,"Old Who","Score1",51,75,75,115.75
+"505","4","17",505,"Destiny of the Daleks",104,67,"Old Who","Score1",51,75,75,115.75
+"506","4","17",506,"Destiny of the Daleks",104.25,NA,"Old Who","Score1",51,75,75,115.75
+"507","4","17",507,"Destiny of the Daleks",104.5,63,"Old Who","Score1",51,75,75,115.75
+"508","4","17",508,"Destiny of the Daleks",104.75,64,"Old Who","Score1",51,75,75,115.75
+"509","4","17",509,"City of Death",105,NA,"Old Who","Score1",51,75,75,115.75
+"510","4","17",510,"City of Death",105.25,64,"Old Who","Score1",51,75,75,115.75
+"511","4","17",511,"City of Death",105.5,NA,"Old Who","Score1",51,75,75,115.75
+"512","4","17",512,"City of Death",105.75,64,"Old Who","Score1",51,75,75,115.75
+"513","4","17",513,"The Creature from the Pit",106,NA,"Old Who","Score1",51,75,75,115.75
+"514","4","17",514,"The Creature from the Pit",106.25,67,"Old Who","Score1",51,75,75,115.75
+"515","4","17",515,"The Creature from the Pit",106.5,NA,"Old Who","Score1",51,75,75,115.75
+"516","4","17",516,"The Creature from the Pit",106.75,NA,"Old Who","Score1",51,75,75,115.75
+"517","4","17",517,"Nightmare of Eden",107,NA,"Old Who","Score1",51,75,75,115.75
+"518","4","17",518,"Nightmare of Eden",107.25,NA,"Old Who","Score1",51,75,75,115.75
+"519","4","17",519,"Nightmare of Eden",107.5,NA,"Old Who","Score1",51,75,75,115.75
+"520","4","17",520,"Nightmare of Eden",107.75,65,"Old Who","Score1",51,75,75,115.75
+"521","4","17",521,"The Horns of Nimon",108,NA,"Old Who","Score1",51,75,75,115.75
+"522","4","17",522,"The Horns of Nimon",108.25,NA,"Old Who","Score1",51,75,75,115.75
+"523","4","17",523,"The Horns of Nimon",108.5,NA,"Old Who","Score1",51,75,75,115.75
+"524","4","17",524,"The Horns of Nimon",108.75,67,"Old Who","Score1",51,75,75,115.75
+"525","4","18",525,"The Leisure Hive",109,NA,"Old Who","Score1",51,75,75,115.75
+"526","4","18",526,"The Leisure Hive",109.25,NA,"Old Who","Score1",51,75,75,115.75
+"527","4","18",527,"The Leisure Hive",109.5,NA,"Old Who","Score1",51,75,75,115.75
+"528","4","18",528,"The Leisure Hive",109.75,65,"Old Who","Score1",51,75,75,115.75
+"529","4","18",529,"Meglos",110,61,"Old Who","Score1",51,75,75,115.75
+"530","4","18",530,"Meglos",110.25,54,"Old Who","Score1",51,75,75,115.75
+"531","4","18",531,"Meglos",110.5,NA,"Old Who","Score1",51,75,75,115.75
+"532","4","18",532,"Meglos",110.75,63,"Old Who","Score1",51,75,75,115.75
+"533","4","18",533,"Full Circle",111,NA,"Old Who","Score1",51,75,75,115.75
+"534","4","18",534,"Full Circle",111.25,NA,"Old Who","Score1",51,75,75,115.75
+"535","4","18",535,"Full Circle",111.5,NA,"Old Who","Score1",51,75,75,115.75
+"536","4","18",536,"Full Circle",111.75,65,"Old Who","Score1",51,75,75,115.75
+"537","4","18",537,"State of Decay",112,NA,"Old Who","Score1",51,75,75,115.75
+"538","4","18",538,"State of Decay",112.25,NA,"Old Who","Score1",51,75,75,115.75
+"539","4","18",539,"State of Decay",112.5,NA,"Old Who","Score1",51,75,75,115.75
+"540","4","18",540,"State of Decay",112.75,69,"Old Who","Score1",51,75,75,115.75
+"541","4","18",541,"Warriors' Gate",113,59,"Old Who","Score1",51,75,75,115.75
+"542","4","18",542,"Warriors' Gate",113.25,NA,"Old Who","Score1",51,75,75,115.75
+"543","4","18",543,"Warriors' Gate",113.5,NA,"Old Who","Score1",51,75,75,115.75
+"544","4","18",544,"Warriors' Gate",113.75,59,"Old Who","Score1",51,75,75,115.75
+"545","4","18",545,"The Keeper of Traken",114,NA,"Old Who","Score1",51,75,75,115.75
+"546","4","18",546,"The Keeper of Traken",114.25,NA,"Old Who","Score1",51,75,75,115.75
+"547","4","18",547,"The Keeper of Traken",114.5,NA,"Old Who","Score1",51,75,75,115.75
+"548","4","18",548,"The Keeper of Traken",114.75,63,"Old Who","Score1",51,75,75,115.75
+"549","4","18",549,"Logopolis",115,NA,"Old Who","Score1",51,75,75,115.75
+"550","4","18",550,"Logopolis",115.25,61,"Old Who","Score1",51,75,75,115.75
+"551","4","18",551,"Logopolis",115.5,NA,"Old Who","Score1",51,75,75,115.75
+"552","4","18",552,"Logopolis",115.75,65,"Old Who","Score1",51,75,75,115.75
+"553","5","19",553,"Castrovalva",116,NA,"Old Who","Score2",62,75,116,135.75
+"554","5","19",554,"Castrovalva",116.25,NA,"Old Who","Score2",62,75,116,135.75
+"555","5","19",555,"Castrovalva",116.5,NA,"Old Who","Score2",62,75,116,135.75
+"556","5","19",556,"Castrovalva",116.75,NA,"Old Who","Score2",62,75,116,135.75
+"557","5","19",557,"Four to Doomsday",117,NA,"Old Who","Score2",62,75,116,135.75
+"558","5","19",558,"Four to Doomsday",117.25,NA,"Old Who","Score2",62,75,116,135.75
+"559","5","19",559,"Four to Doomsday",117.5,NA,"Old Who","Score2",62,75,116,135.75
+"560","5","19",560,"Four to Doomsday",117.75,NA,"Old Who","Score2",62,75,116,135.75
+"561","5","19",561,"Kinda",118,NA,"Old Who","Score2",62,75,116,135.75
+"562","5","19",562,"Kinda",118.25,NA,"Old Who","Score2",62,75,116,135.75
+"563","5","19",563,"Kinda",118.5,NA,"Old Who","Score2",62,75,116,135.75
+"564","5","19",564,"Kinda",118.75,NA,"Old Who","Score2",62,75,116,135.75
+"565","5","19",565,"The Visitation",119,NA,"Old Who","Score2",62,75,116,135.75
+"566","5","19",566,"The Visitation",119.25,NA,"Old Who","Score2",62,75,116,135.75
+"567","5","19",567,"The Visitation",119.5,NA,"Old Who","Score2",62,75,116,135.75
+"568","5","19",568,"The Visitation",119.75,NA,"Old Who","Score2",62,75,116,135.75
+"569","5","19",569,"Black Orchid",120,NA,"Old Who","Score2",62,75,116,135.75
+"570","5","19",570,"Black Orchid",120.5,NA,"Old Who","Score2",62,75,116,135.75
+"571","5","19",571,"Earthshock",121,NA,"Old Who","Score2",62,75,116,135.75
+"572","5","19",572,"Earthshock",121.25,NA,"Old Who","Score2",62,75,116,135.75
+"573","5","19",573,"Earthshock",121.5,NA,"Old Who","Score2",62,75,116,135.75
+"574","5","19",574,"Earthshock",121.75,NA,"Old Who","Score2",62,75,116,135.75
+"575","5","19",575,"Time-Flight",122,NA,"Old Who","Score2",62,75,116,135.75
+"576","5","19",576,"Time-Flight",122.25,NA,"Old Who","Score2",62,75,116,135.75
+"577","5","19",577,"Time-Flight",122.5,NA,"Old Who","Score2",62,75,116,135.75
+"578","5","19",578,"Time-Flight",122.75,NA,"Old Who","Score2",62,75,116,135.75
+"579","5","20",579,"Arc of Infinity",123,69,"Old Who","Score2",62,75,116,135.75
+"580","5","20",580,"Arc of Infinity",123.25,70,"Old Who","Score2",62,75,116,135.75
+"581","5","20",581,"Arc of Infinity",123.5,67,"Old Who","Score2",62,75,116,135.75
+"582","5","20",582,"Arc of Infinity",123.75,66,"Old Who","Score2",62,75,116,135.75
+"583","5","20",583,"Snakedance",124,65,"Old Who","Score2",62,75,116,135.75
+"584","5","20",584,"Snakedance",124.25,66,"Old Who","Score2",62,75,116,135.75
+"585","5","20",585,"Snakedance",124.5,67,"Old Who","Score2",62,75,116,135.75
+"586","5","20",586,"Snakedance",124.75,67,"Old Who","Score2",62,75,116,135.75
+"587","5","20",587,"Mawdryn Undead",125,67,"Old Who","Score2",62,75,116,135.75
+"588","5","20",588,"Mawdryn Undead",125.25,70,"Old Who","Score2",62,75,116,135.75
+"589","5","20",589,"Mawdryn Undead",125.5,67,"Old Who","Score2",62,75,116,135.75
+"590","5","20",590,"Mawdryn Undead",125.75,68,"Old Who","Score2",62,75,116,135.75
+"591","5","20",591,"Terminus",126,65,"Old Who","Score2",62,75,116,135.75
+"592","5","20",592,"Terminus",126.25,67,"Old Who","Score2",62,75,116,135.75
+"593","5","20",593,"Terminus",126.5,64,"Old Who","Score2",62,75,116,135.75
+"594","5","20",594,"Terminus",126.75,67,"Old Who","Score2",62,75,116,135.75
+"595","5","20",595,"Enlightenment",127,67,"Old Who","Score2",62,75,116,135.75
+"596","5","20",596,"Enlightenment",127.25,65,"Old Who","Score2",62,75,116,135.75
+"597","5","20",597,"Enlightenment",127.5,68,"Old Who","Score2",62,75,116,135.75
+"598","5","20",598,"Enlightenment",127.75,70,"Old Who","Score2",62,75,116,135.75
+"599","5","20",599,"The King's Demons",128,65,"Old Who","Score2",62,75,116,135.75
+"600","5","20",600,"The King's Demons",128.5,63,"Old Who","Score2",62,75,116,135.75
+"601","5","20",601,"The Five Doctors",129,75,"Old Who","Score2",62,75,116,135.75
+"602","5","21",602,"Warriors of the Deep",130,65,"Old Who","Score2",62,75,116,135.75
+"603","5","21",603,"Warriors of the Deep",130.25,64,"Old Who","Score2",62,75,116,135.75
+"604","5","21",604,"Warriors of the Deep",130.5,62,"Old Who","Score2",62,75,116,135.75
+"605","5","21",605,"Warriors of the Deep",130.75,65,"Old Who","Score2",62,75,116,135.75
+"606","5","21",606,"The Awakening",131,65,"Old Who","Score2",62,75,116,135.75
+"607","5","21",607,"The Awakening",131.5,63,"Old Who","Score2",62,75,116,135.75
+"608","5","21",608,"Frontios",132,66,"Old Who","Score2",62,75,116,135.75
+"609","5","21",609,"Frontios",132.25,69,"Old Who","Score2",62,75,116,135.75
+"610","5","21",610,"Frontios",132.5,65,"Old Who","Score2",62,75,116,135.75
+"611","5","21",611,"Frontios",132.75,65,"Old Who","Score2",62,75,116,135.75
+"612","5","21",612,"Resurrection of the Daleks",133,69,"Old Who","Score2",62,75,116,135.75
+"613","5","21",613,"Resurrection of the Daleks",133.333333333333,65,"Old Who","Score2",62,75,116,135.75
+"614","5","21",614,"Resurrection of the Daleks",133.666666666667,NA,"Old Who","Score2",62,75,116,135.75
+"615","5","21",615,"Planet of Fire",134,NA,"Old Who","Score2",62,75,116,135.75
+"616","5","21",616,"Planet of Fire",134.25,NA,"Old Who","Score2",62,75,116,135.75
+"617","5","21",617,"Planet of Fire",134.5,NA,"Old Who","Score2",62,75,116,135.75
+"618","5","21",618,"Planet of Fire",134.75,NA,"Old Who","Score2",62,75,116,135.75
+"619","5","21",619,"The Caves of Androzani",135,65,"Old Who","Score2",62,75,116,135.75
+"620","5","21",620,"The Caves of Androzani",135.25,NA,"Old Who","Score2",62,75,116,135.75
+"621","5","21",621,"The Caves of Androzani",135.5,65,"Old Who","Score2",62,75,116,135.75
+"622","5","21",622,"The Caves of Androzani",135.75,68,"Old Who","Score2",62,75,116,135.75
+"623","6","21",623,"The Twin Dilemma",136,60,"Old Who","Score2",59,72,136,146.5
+"624","6","21",624,"The Twin Dilemma",136.25,66,"Old Who","Score2",59,72,136,146.5
+"625","6","21",625,"The Twin Dilemma",136.5,59,"Old Who","Score2",59,72,136,146.5
+"626","6","21",626,"The Twin Dilemma",136.75,67,"Old Who","Score2",59,72,136,146.5
+"627","6","22",627,"Attack of the Cybermen",137,61,"Old Who","Score2",59,72,136,146.5
+"628","6","22",628,"Attack of the Cybermen",137.5,65,"Old Who","Score2",59,72,136,146.5
+"629","6","22",629,"Vengeance on Varos",138,63,"Old Who","Score2",59,72,136,146.5
+"630","6","22",630,"Vengeance on Varos",138.5,65,"Old Who","Score2",59,72,136,146.5
+"631","6","22",631,"The Mark of the Rani",139,64,"Old Who","Score2",59,72,136,146.5
+"632","6","22",632,"The Mark of the Rani",139.5,64,"Old Who","Score2",59,72,136,146.5
+"633","6","22",633,"The Two Doctors",140,65,"Old Who","Score2",59,72,136,146.5
+"634","6","22",634,"The Two Doctors",140.333333333333,62,"Old Who","Score2",59,72,136,146.5
+"635","6","22",635,"The Two Doctors",140.666666666667,65,"Old Who","Score2",59,72,136,146.5
+"636","6","22",636,"Timelash",141,66,"Old Who","Score2",59,72,136,146.5
+"637","6","22",637,"Timelash",141.5,64,"Old Who","Score2",59,72,136,146.5
+"638","6","22",638,"Revelation of the Daleks",142,67,"Old Who","Score2",59,72,136,146.5
+"639","6","22",639,"Revelation of the Daleks",142.5,65,"Old Who","Score2",59,72,136,146.5
+"640","6","23",640,"The Mysterious Planet",143,72,"Old Who","Score2",59,72,136,146.5
+"641","6","23",641,"The Mysterious Planet",143.25,69,"Old Who","Score2",59,72,136,146.5
+"642","6","23",642,"The Mysterious Planet",143.5,70,"Old Who","Score2",59,72,136,146.5
+"643","6","23",643,"The Mysterious Planet",143.75,72,"Old Who","Score2",59,72,136,146.5
+"644","6","23",644,"Mindwarp",144,71,"Old Who","Score2",59,72,136,146.5
+"645","6","23",645,"Mindwarp",144.25,69,"Old Who","Score2",59,72,136,146.5
+"646","6","23",646,"Mindwarp",144.5,66,"Old Who","Score2",59,72,136,146.5
+"647","6","23",647,"Mindwarp",144.75,72,"Old Who","Score2",59,72,136,146.5
+"648","6","23",648,"Terror of the Vervoids",145,66,"Old Who","Score2",59,72,136,146.5
+"649","6","23",649,"Terror of the Vervoids",145.25,69,"Old Who","Score2",59,72,136,146.5
+"650","6","23",650,"Terror of the Vervoids",145.5,69,"Old Who","Score2",59,72,136,146.5
+"651","6","23",651,"Terror of the Vervoids",145.75,69,"Old Who","Score2",59,72,136,146.5
+"652","6","23",652,"The Ultimate Foe",146,69,"Old Who","Score2",59,72,136,146.5
+"653","6","23",653,"The Ultimate Foe",146.5,69,"Old Who","Score2",59,72,136,146.5
+"654","7","24",654,"Time and the Rani",147,58,"Old Who","Score2",57,72,147,158.666666666667
+"655","7","24",655,"Time and the Rani",147.25,63,"Old Who","Score2",57,72,147,158.666666666667
+"656","7","24",656,"Time and the Rani",147.5,57,"Old Who","Score2",57,72,147,158.666666666667
+"657","7","24",657,"Time and the Rani",147.75,59,"Old Who","Score2",57,72,147,158.666666666667
+"658","7","24",658,"Paradise Towers",148,61,"Old Who","Score2",57,72,147,158.666666666667
+"659","7","24",659,"Paradise Towers",148.25,58,"Old Who","Score2",57,72,147,158.666666666667
+"660","7","24",660,"Paradise Towers",148.5,58,"Old Who","Score2",57,72,147,158.666666666667
+"661","7","24",661,"Paradise Towers",148.75,57,"Old Who","Score2",57,72,147,158.666666666667
+"662","7","24",662,"Delta and the Bannermen",149,63,"Old Who","Score2",57,72,147,158.666666666667
+"663","7","24",663,"Delta and the Bannermen",149.333333333333,60,"Old Who","Score2",57,72,147,158.666666666667
+"664","7","24",664,"Delta and the Bannermen",149.666666666667,60,"Old Who","Score2",57,72,147,158.666666666667
+"665","7","24",665,"Dragonfire",150,61,"Old Who","Score2",57,72,147,158.666666666667
+"666","7","24",666,"Dragonfire",150.333333333333,61,"Old Who","Score2",57,72,147,158.666666666667
+"667","7","24",667,"Dragonfire",150.666666666667,64,"Old Who","Score2",57,72,147,158.666666666667
+"668","7","25",668,"Rememberance of the Daleks",151,68,"Old Who","Score2",57,72,147,158.666666666667
+"669","7","25",669,"Rememberance of the Daleks",151.25,69,"Old Who","Score2",57,72,147,158.666666666667
+"670","7","25",670,"Rememberance of the Daleks",151.5,70,"Old Who","Score2",57,72,147,158.666666666667
+"671","7","25",671,"Rememberance of the Daleks",151.75,72,"Old Who","Score2",57,72,147,158.666666666667
+"672","7","25",672,"The Happiness Patrol",152,67,"Old Who","Score2",57,72,147,158.666666666667
+"673","7","25",673,"The Happiness Patrol",152.333333333333,65,"Old Who","Score2",57,72,147,158.666666666667
+"674","7","25",674,"The Happiness Patrol",152.666666666667,65,"Old Who","Score2",57,72,147,158.666666666667
+"675","7","25",675,"Silver Nemesis",153,71,"Old Who","Score2",57,72,147,158.666666666667
+"676","7","25",676,"Silver Nemesis",153.333333333333,70,"Old Who","Score2",57,72,147,158.666666666667
+"677","7","25",677,"Silver Nemesis",153.666666666667,70,"Old Who","Score2",57,72,147,158.666666666667
+"678","7","25",678,"The Greatest Show in the Galaxy",154,68,"Old Who","Score2",57,72,147,158.666666666667
+"679","7","25",679,"The Greatest Show in the Galaxy",154.25,66,"Old Who","Score2",57,72,147,158.666666666667
+"680","7","25",680,"The Greatest Show in the Galaxy",154.5,69,"Old Who","Score2",57,72,147,158.666666666667
+"681","7","25",681,"The Greatest Show in the Galaxy",154.75,64,"Old Who","Score2",57,72,147,158.666666666667
+"682","7","26",682,"Battlefield",155,69,"Old Who","Score2",57,72,147,158.666666666667
+"683","7","26",683,"Battlefield",155.25,68,"Old Who","Score2",57,72,147,158.666666666667
+"684","7","26",684,"Battlefield",155.5,67,"Old Who","Score2",57,72,147,158.666666666667
+"685","7","26",685,"Battlefield",155.75,65,"Old Who","Score2",57,72,147,158.666666666667
+"686","7","26",686,"Ghost Light",156,68,"Old Who","Score2",57,72,147,158.666666666667
+"687","7","26",687,"Ghost Light",156.333333333333,68,"Old Who","Score2",57,72,147,158.666666666667
+"688","7","26",688,"Ghost Light",156.666666666667,64,"Old Who","Score2",57,72,147,158.666666666667
+"689","7","26",689,"The Curse of Fenric",157,67,"Old Who","Score2",57,72,147,158.666666666667
+"690","7","26",690,"The Curse of Fenric",157.25,68,"Old Who","Score2",57,72,147,158.666666666667
+"691","7","26",691,"The Curse of Fenric",157.5,68,"Old Who","Score2",57,72,147,158.666666666667
+"692","7","26",692,"The Curse of Fenric",157.75,68,"Old Who","Score2",57,72,147,158.666666666667
+"693","7","26",693,"Survival",158,69,"Old Who","Score2",57,72,147,158.666666666667
+"694","7","26",694,"Survival",158.333333333333,69,"Old Who","Score2",57,72,147,158.666666666667
+"695","7","26",695,"Survival",158.666666666667,71,"Old Who","Score2",57,72,147,158.666666666667
+"696","8","TV",696,"The Movie",159,75,"Movie","Score2",75,75,159,159
+"697","9","1",697,"Rose",160,76,"New Who","Score4",76,89,160,169.5
+"698","9","1",698,"The End of the World",161,76,"New Who","Score4",76,89,160,169.5
+"699","9","1",699,"The Unquiet Dead",162,80,"New Who","Score4",76,89,160,169.5
+"700","9","1",700,"Aliens of London",163,82,"New Who","Score4",76,89,160,169.5
+"701","9","1",701,"Aliens of London",163.5,81,"New Who","Score4",76,89,160,169.5
+"702","9","1",702,"Dalek",164,84,"New Who","Score4",76,89,160,169.5
+"703","9","1",703,"The Long Game",165,81,"New Who","Score4",76,89,160,169.5
+"704","9","1",704,"Father's Day",166,83,"New Who","Score4",76,89,160,169.5
+"705","9","1",705,"The Empty Child",167,84,"New Who","Score4",76,89,160,169.5
+"706","9","1",706,"The Empty Child",167.5,85,"New Who","Score4",76,89,160,169.5
+"707","9","1",707,"Boom Town",168,82,"New Who","Score4",76,89,160,169.5
+"708","9","1",708,"The Parting of the Ways",169,86,"New Who","Score4",76,89,160,169.5
+"709","9","1",709,"The Parting of the Ways",169.5,89,"New Who","Score4",76,89,160,169.5
+"710","10","2",710,"The Christmas Invasion",170,84,"New Who","Score4",73,91,170,205.5
+"711","10","2",711,"New Earth",171,85,"New Who","Score4",73,91,170,205.5
+"712","10","2",712,"Tooth and Claw",172,83,"New Who","Score4",73,91,170,205.5
+"713","10","2",713,"School Reunion",173,85,"New Who","Score4",73,91,170,205.5
+"714","10","2",714,"The Girl in the Fireplace",174,84,"New Who","Score4",73,91,170,205.5
+"715","10","2",715,"Rise of the Cybermen",175,86,"New Who","Score4",73,91,170,205.5
+"716","10","2",716,"Rise of the Cybermen",175.5,86,"New Who","Score4",73,91,170,205.5
+"717","10","2",717,"The Idiot's Lantern",176,84,"New Who","Score4",73,91,170,205.5
+"718","10","2",718,"The Impossible Planet",177,85,"New Who","Score4",73,91,170,205.5
+"719","10","2",719,"The Impossible Planet",177.5,86,"New Who","Score4",73,91,170,205.5
+"720","10","2",720,"Love & Monsters",178,76,"New Who","Score4",73,91,170,205.5
+"721","10","2",721,"Fear Her",179,73,"New Who","Score4",73,91,170,205.5
+"722","10","2",722,"Doomsday",180,86,"New Who","Score4",73,91,170,205.5
+"723","10","2",723,"Doomsday",180.5,89,"New Who","Score4",73,91,170,205.5
+"724","10","3",724,"The Runaway Bride",181,84,"New Who","Score4",73,91,170,205.5
+"725","10","3",725,"Smith and Jones",182,88,"New Who","Score4",73,91,170,205.5
+"726","10","3",726,"The Shakespeare Code",183,87,"New Who","Score4",73,91,170,205.5
+"727","10","3",727,"Gridlock",184,85,"New Who","Score4",73,91,170,205.5
+"728","10","3",728,"Daleks in Manhattan",185,86,"New Who","Score4",73,91,170,205.5
+"729","10","3",729,"Daleks in Manhattan",185.5,85,"New Who","Score4",73,91,170,205.5
+"730","10","3",730,"The Lazarus Experiment",186,86,"New Who","Score4",73,91,170,205.5
+"731","10","3",731,"42",187,85,"New Who","Score4",73,91,170,205.5
+"732","10","3",732,"Human Nature",188,86,"New Who","Score4",73,91,170,205.5
+"733","10","3",733,"Human Nature",188.5,86,"New Who","Score4",73,91,170,205.5
+"734","10","3",734,"Blink",189,87,"New Who","Score4",73,91,170,205.5
+"735","10","3",735,"Last of the Time Lords",190,87,"New Who","Score4",73,91,170,205.5
+"736","10","3",736,"Last of the Time Lords",190.333333333333,87,"New Who","Score4",73,91,170,205.5
+"737","10","3",737,"Last of the Time Lords",190.666666666667,88,"New Who","Score4",73,91,170,205.5
+"738","10","4",738,"Voyage of the Damned",191,86,"New Who","Score4",73,91,170,205.5
+"739","10","4",739,"Partners in Crime",192,88,"New Who","Score4",73,91,170,205.5
+"740","10","4",740,"The Fires of Pompeii",193,87,"New Who","Score4",73,91,170,205.5
+"741","10","4",741,"Planet of the Ood",194,87,"New Who","Score4",73,91,170,205.5
+"742","10","4",742,"The Poison Sky",195,87,"New Who","Score4",73,91,170,205.5
+"743","10","4",743,"The Poison Sky",195.5,88,"New Who","Score4",73,91,170,205.5
+"744","10","4",744,"The Doctor's Daughter",196,88,"New Who","Score4",73,91,170,205.5
+"745","10","4",745,"The Unicorn and the Wasp",197,86,"New Who","Score4",73,91,170,205.5
+"746","10","4",746,"Silence in the Library",198,89,"New Who","Score4",73,91,170,205.5
+"747","10","4",747,"Silence in the Library",198.5,89,"New Who","Score4",73,91,170,205.5
+"748","10","4",748,"Midnight",199,86,"New Who","Score4",73,91,170,205.5
+"749","10","4",749,"Turn Left",200,88,"New Who","Score4",73,91,170,205.5
+"750","10","4",750,"Journey's End",201,91,"New Who","Score4",73,91,170,205.5
+"751","10","4",751,"Journey's End",201.5,91,"New Who","Score4",73,91,170,205.5
+"752","10","S",752,"The Next Doctor",202,86,"New Who","Score4",73,91,170,205.5
+"753","10","S",753,"Planet of the Dead",203,88,"New Who","Score4",73,91,170,205.5
+"754","10","S",754,"The Waters of Mars",204,88,"New Who","Score4",73,91,170,205.5
+"755","10","S",755,"The End of Time",205,87,"New Who","Score4",73,91,170,205.5
+"756","10","S",756,"The End of Time",205.5,89,"New Who","Score4",73,91,170,205.5
+"757","11","5",757,"The Eleventh Hour",206,86,"New Who","Score4",83,89,206,244
+"758","11","5",758,"The Beast Below",207,86,"New Who","Score4",83,89,206,244
+"759","11","5",759,"Victory of the Daleks",208,84,"New Who","Score4",83,89,206,244
+"760","11","5",760,"The Time of Angels",209,87,"New Who","Score4",83,89,206,244
+"761","11","5",761,"The Time of Angels",209.5,86,"New Who","Score4",83,89,206,244
+"762","11","5",762,"The Vampires of Venice",210,86,"New Who","Score4",83,89,206,244
+"763","11","5",763,"Amy's Choice",211,84,"New Who","Score4",83,89,206,244
+"764","11","5",764,"The Hungry Earth",212,86,"New Who","Score4",83,89,206,244
+"765","11","5",765,"The Hungry Earth",212.5,85,"New Who","Score4",83,89,206,244
+"766","11","5",766,"Vincent and the Doctor",213,86,"New Who","Score4",83,89,206,244
+"767","11","5",767,"The Lodger",214,87,"New Who","Score4",83,89,206,244
+"768","11","5",768,"The Pandorica Opens",215,88,"New Who","Score4",83,89,206,244
+"769","11","5",769,"The Pandorica Opens",215.5,89,"New Who","Score4",83,89,206,244
+"770","11","6",770,"A Christmas Carol",216,83,"New Who","Score4",83,89,206,244
+"771","11","6",771,"The Impossible Astronaut",217,88,"New Who","Score4",83,89,206,244
+"772","11","6",772,"The Impossible Astronaut",217.5,87,"New Who","Score4",83,89,206,244
+"773","11","6",773,"The Curse of the Black Spot",218,86,"New Who","Score4",83,89,206,244
+"774","11","6",774,"The Doctor's Wife",219,87,"New Who","Score4",83,89,206,244
+"775","11","6",775,"The Rebel Flesh",220,85,"New Who","Score4",83,89,206,244
+"776","11","6",776,"The Rebel Flesh",220.5,86,"New Who","Score4",83,89,206,244
+"777","11","6",777,"A Good Man Goes to War",221,88,"New Who","Score4",83,89,206,244
+"778","11","6",778,"Let's Kill Hitler",222,85,"New Who","Score4",83,89,206,244
+"779","11","6",779,"Night Terrors",223,86,"New Who","Score4",83,89,206,244
+"780","11","6",780,"The Girl Who Waited",224,85,"New Who","Score4",83,89,206,244
+"781","11","6",781,"The God Complex",225,86,"New Who","Score4",83,89,206,244
+"782","11","6",782,"Closing Time",226,86,"New Who","Score4",83,89,206,244
+"783","11","6",783,"The Wedding of River Song",227,86,"New Who","Score4",83,89,206,244
+"784","11","7",784,"The Doctor, the Widow and the Wardrobe",228,84,"New Who","Score4",83,89,206,244
+"785","11","7",785,"Asylum of the Daleks",229,89,"New Who","Score4",83,89,206,244
+"786","11","7",786,"Dinosaurs on a Spaceship",230,87,"New Who","Score4",83,89,206,244
+"787","11","7",787,"A Town Called Mercy",231,85,"New Who","Score4",83,89,206,244
+"788","11","7",788,"The Power of Three",232,87,"New Who","Score4",83,89,206,244
+"789","11","7",789,"The Angels Take Manhattan",233,88,"New Who","Score4",83,89,206,244
+"790","11","7",790,"The Snowmen",234,87,"New Who","Score4",83,89,206,244
+"791","11","7",791,"The Bells of Saint John",235,87,"New Who","Score4",83,89,206,244
+"792","11","7",792,"The Rings of Akhaten",236,84,"New Who","Score4",83,89,206,244
+"793","11","7",793,"Cold War",237,84,"New Who","Score4",83,89,206,244
+"794","11","7",794,"Hide",238,85,"New Who","Score4",83,89,206,244
+"795","11","7",795,"Journey to the Centre of the TARDIS",239,85,"New Who","Score4",83,89,206,244
+"796","11","7",796,"The Crimson Horror",240,85,"New Who","Score4",83,89,206,244
+"797","11","7",797,"Nightmare in Silver",241,84,"New Who","Score4",83,89,206,244
+"798","11","7",798,"The Name of the Doctor",242,88,"New Who","Score4",83,89,206,244
+"799","11","S",799,"The Day of the Doctor",243,88,"New Who","Score4",83,89,206,244
+"800","11","S",800,"The Time of the Doctor",244,83,"New Who","Score4",83,89,206,244
+"801","12","8",801,"Deep Breath",245,82,"New Who","Score4",78,85,245,275
+"802","12","8",802,"Into the Dalek",246,84,"New Who","Score4",78,85,245,275
+"803","12","8",803,"Robot of Sherwood",247,82,"New Who","Score4",78,85,245,275
+"804","12","8",804,"Listen",248,82,"New Who","Score4",78,85,245,275
+"805","12","8",805,"Time Heist",249,84,"New Who","Score4",78,85,245,275
+"806","12","8",806,"The Caretaker",250,83,"New Who","Score4",78,85,245,275
+"807","12","8",807,"Kill the Moon",251,82,"New Who","Score4",78,85,245,275
+"808","12","8",808,"Mummy on the Orient Express",252,85,"New Who","Score4",78,85,245,275
+"809","12","8",809,"Flatline",253,85,"New Who","Score4",78,85,245,275
+"810","12","8",810,"In the Forest of the Night",254,83,"New Who","Score4",78,85,245,275
+"811","12","8",811,"Death in Heaven",255,85,"New Who","Score4",78,85,245,275
+"812","12","8",812,"Death in Heaven",255.5,83,"New Who","Score4",78,85,245,275
+"813","12","9",813,"Last Christmas",256,82,"New Who","Score4",78,85,245,275
+"814","12","9",814,"The Magician's Apprentice",257,84,"New Who","Score4",78,85,245,275
+"815","12","9",815,"The Magician's Apprentice",257.5,83,"New Who","Score4",78,85,245,275
+"816","12","9",816,"Under the Lake",258,84,"New Who","Score4",78,85,245,275
+"817","12","9",817,"Under the Lake",258.5,83,"New Who","Score4",78,85,245,275
+"818","12","9",818,"The Girl Who Died",259,82,"New Who","Score4",78,85,245,275
+"819","12","9",819,"The Girl Who Died",259.5,81,"New Who","Score4",78,85,245,275
+"820","12","9",820,"The Zygon Invasion",260,82,"New Who","Score4",78,85,245,275
+"821","12","9",821,"The Zygon Invasion",260.5,84,"New Who","Score4",78,85,245,275
+"822","12","9",822,"Sleep No More",261,78,"New Who","Score4",78,85,245,275
+"823","12","9",823,"Heaven Sent",262,84,"New Who","Score4",78,85,245,275
+"824","12","9",824,"Heaven Sent",262.333333333333,80,"New Who","Score4",78,85,245,275
+"825","12","9",825,"Heaven Sent",262.666666666667,82,"New Who","Score4",78,85,245,275
+"826","12","9",826,"The Husbands of River Song",263,82,"New Who","Score4",78,85,245,275
+"827","12","10",827,"The Return of Doctor Mysterio",264,82,"New Who","Score4",78,85,245,275
+"828","12","10",828,"The Pilot",265,83,"New Who","Score4",78,85,245,275
+"829","12","10",829,"Smile",266,83,"New Who","Score4",78,85,245,275
+"830","12","10",830,"Thin Ice",267,84,"New Who","Score4",78,85,245,275
+"831","12","10",831,"Knock Knock",268,83,"New Who","Score4",78,85,245,275
+"832","12","10",832,"Oxygen",269,83,"New Who","Score4",78,85,245,275
+"833","12","10",833,"Extremis",270,82,"New Who","Score4",78,85,245,275
+"834","12","10",834,"The Lie of the Land",271,82,"New Who","Score4",78,85,245,275
+"835","12","10",835,"The Lie of the Land",271.5,82,"New Who","Score4",78,85,245,275
+"836","12","10",836,"Empress of Mars",272,83,"New Who","Score4",78,85,245,275
+"837","12","10",837,"The Eaters of Light",273,81,"New Who","Score4",78,85,245,275
+"838","12","10",838,"World Enough and Time",274,85,"New Who","Score4",78,85,245,275
+"839","12","10",839,"World Enough and Time",274.5,83,"New Who","Score4",78,85,245,275
+"840","12","10",840,"Twice Upon a Time",275,81,"New Who","Score4",78,85,245,275
+"841","13","11",841,"The Woman Who Fell to Earth",276,83,"New Who","Score3",75,83,276,295.833333333333
+"842","13","11",842,"The Ghost Monument",277,82,"New Who","Score3",75,83,276,295.833333333333
+"843","13","11",843,"Rosa",278,83,"New Who","Score3",75,83,276,295.833333333333
+"844","13","11",844,"Arachnids in the UK",279,83,"New Who","Score3",75,83,276,295.833333333333
+"845","13","11",845,"The Tsuranga Conundrum",280,79,"New Who","Score3",75,83,276,295.833333333333
+"846","13","11",846,"Demons of the Punjab",281,80,"New Who","Score3",75,83,276,295.833333333333
+"847","13","11",847,"Kerblam!",282,81,"New Who","Score3",75,83,276,295.833333333333
+"848","13","11",848,"The Witchfinders",283,81,"New Who","Score3",75,83,276,295.833333333333
+"849","13","11",849,"It Takes You Away",284,80,"New Who","Score3",75,83,276,295.833333333333
+"850","13","11",850,"The Battle of Ranskoor Av Kolos",285,79,"New Who","Score3",75,83,276,295.833333333333
+"851","13","11",851,"Resolution",286,80,"New Who","Score3",75,83,276,295.833333333333
+"852","13","12",852,"Spyfall",287,82,"New Who","Score3",75,83,276,295.833333333333
+"853","13","12",853,"Spyfall",287.5,82,"New Who","Score3",75,83,276,295.833333333333
+"854","13","12",854,"Orphan 55",288,77,"New Who","Score3",75,83,276,295.833333333333
+"855","13","12",855,"Nikola Tesla's Night of Terror",289,79,"New Who","Score3",75,83,276,295.833333333333
+"856","13","12",856,"Fugitive of the Judoon",290,83,"New Who","Score3",75,83,276,295.833333333333
+"857","13","12",857,"Praxeus",291,78,"New Who","Score3",75,83,276,295.833333333333
+"858","13","12",858,"Can You Hear Me?",292,78,"New Who","Score3",75,83,276,295.833333333333
+"859","13","12",859,"The Timeless Children",293,80,"New Who","Score3",75,83,276,295.833333333333
+"860","13","12",860,"The Timeless Children",293.333333333333,81,"New Who","Score3",75,83,276,295.833333333333
+"861","13","12",861,"The Timeless Children",293.666666666667,82,"New Who","Score3",75,83,276,295.833333333333
+"862","13","12",862,"Revolution of the Daleks",294,79,"New Who","Score3",75,83,276,295.833333333333
+"863","13","13",863,"Flux",295,76,"New Who","Score3",75,83,276,295.833333333333
+"864","13","13",864,"Flux",295.166666666667,77,"New Who","Score3",75,83,276,295.833333333333
+"865","13","13",865,"Flux",295.333333333333,75,"New Who","Score3",75,83,276,295.833333333333
+"866","13","13",866,"Flux",295.5,79,"New Who","Score3",75,83,276,295.833333333333
+"867","13","13",867,"Flux",295.666666666667,77,"New Who","Score3",75,83,276,295.833333333333
+"868","13","13",868,"Flux",295.833333333333,76,"New Who","Score3",75,83,276,295.833333333333
